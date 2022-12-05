@@ -1,54 +1,54 @@
 ﻿,Number,Date,Primary Target,Target Attacked,Comments,Month,Day
-0,49,1944-01-04,"Target: Port AreaType: TransportationLocation: Kiel, Germany",Primary,Port AttackedPilot/Aircraft losses:Kaczaraba / 42‑5838 ⇗,1,4
-1,50,1944-01-05,"Target: Port AreaType: TransportationLocation: Kiel, Germany",Primary,Smokescreen Not EffectiveNo Aircraft Lost,1,5
-2,51,1944-01-07,"Target: PowerhouseType: IndustryLocation: Ludwigshafen, Germany",Primary,Few Aircraft Join FormationPilot/Aircraft losses:Garner / 41‑24525 ⇗,1,7
-3,52,1944-01-11,"Target: Ju-88 Aircraft Parts PlantType: Aircraft IndustryLocation: Halberstadt, Germany",Other,Port City BombedNo Aircraft Lost,1,11
-4,53,1944-01-14,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Le Meillard, France",Primary,V-Weapons Site BombedPilot/Aircraft losses:Britt / 42‑31246 ⇗,1,14
-5,54,1944-01-21,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Preuseville, France",Primary,Weather Affects BombingNo Aircraft Lost,1,21
-6,55,1944-01-29,"Target: Aircraft Parts PlantsType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,Technology Trumps Overcast TargetsNo Aircraft Lost,1,29
-7,56,1944-01-30,"Target: Aircraft Assembly PlantType: Aircraft IndustryLocation: Brunswick / Braunschweig, Germany",Primary,Aircraft Plant AttackedPilot/Aircraft losses:Penney / 42‑37727 ⇗Ross / 42‑5444 ⇗Writz / 42‑5404 ⇗,1,30
-8,57,1944-02-03,"Target: Submarines (under construction)Type: Submarine FacilityLocation: Wilhelmshaven, Germany",Primary,Challenging WeatherNo Aircraft Lost,2,3
-9,58,1944-02-04,"Target: Alfred Teves Main Works: Aircraft Parts PlantType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,Attack On Aircraft Parts PlantNo Aircraft Lost,2,4
-10,59,1944-02-05,"Target: Bricy Aerodrome, Luftwaffe Training and Bomber AirfieldType: German Air Force (Luftwaffe)Location: Orleans, France",Primary,Luftwaffe Airfield BombedNo Aircraft Lost,2,5
-11,60,1944-02-06,"Target: Nancy/Essey AerodromeType: German Air Force (Luftwaffe)Location: Nancy, France",None,"Clouds, Snow Conceal TargetsNo Aircraft Lost",2,6
-12,61,1944-02-08,"Target: Piston Ring FactoryType: IndustryLocation: Frankfurt am Main, Germany",Primary,Radar Bombing TodayPilot/Aircraft losses:Covington / 42‑39784 ⇗,2,8
-13,62,1944-02-11,"Target: Propeller Factory (Foundry)Type: Aircraft IndustryLocation: Frankfurt am Main, Germany",TOO,Visual Attack Despite ConfusionPilot/Aircraft losses:Moore / 42‑40005 ⇗Widener / 42‑39962 ⇗,2,11
-14,63,1944-02-20,"Type: Aircraft IndustryLocation: Leipzig & Bernburg, Germany",Primary,Big Week Begins!No Aircraft Lost,2,20
-15,64,1944-02-21,"Target: Fighter Field & Aircraft Storage DepotType: German Air Force (Luftwaffe)Location: Werl, Germany",TOO,Big Week: Day TwoNo Aircraft Lost,2,21
-16,65,1944-02-22,"Target: Aircraft FactoryType: Aircraft IndustryLocation: Halberstadt & Aschersleben, Germany",Primary,"Big Week, Day ThreePilot/Aircraft losses:DeFrees / 42‑97488 ⇗Jeter / 42‑31516 ⇗Kew / 42‑3087 ⇗Markow / 42‑97450 ⇗McDonald / 42‑39809 ⇗",2,22
-17,66,1944-02-24,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,"Big Week, Day FiveNo Aircraft Lost",2,24
-18,67,1944-02-25,"Target: Aircraft Assembly & Ball Bearings PlantsType: IndustryLocation: Augsburg & Stuttgart, Germany",Primary,"Big Week, Last DayPilot/Aircraft losses:Larsen / 42‑29717 ⇗",2,25
-19,68,1944-02-28,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Preuseville, France",None,Weather Prevents BombingPilot/Aircraft losses:Rinne / 42‑31058 ⇗,2,28
-20,69,1944-03-02,"Target: Alfred Teves Main Works: Aircraft Parts Plant and Machine ShopType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,"Radar Bombing, Results UnobservedNo Aircraft Lost",3,2
-21,70,1944-03-03,"Target: Roller-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",None,8th AF: Mission RecalledNo Aircraft Lost,3,3
-22,71,1944-03-04,"Type: MilitaryLocation: Berlin, Germany",TOO,Weather Alters MissionPilot/Aircraft losses:Carpenter / 42‑39991 ⇗Cosentino / 42‑32007 ⇗Lovvorn / 42‑31606 ⇗,3,4
-23,72,1944-03-06,"Target: Erkner Ball-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",Secondary,Berlin Attacked - Finally!No Aircraft Lost,3,6
-24,73,1944-03-08,"Target: Erkner Ball-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",Primary,384th Leads Wing To BerlinNo Aircraft Lost,3,8
-25,74,1944-03-09,"Target: Heinkel Aircraft PlantType: Aircraft IndustryLocation: Oranienburg, Germany",Secondary,Secondary Target Attacked With PFFPilot/Aircraft losses:Reed / 42‑37781 ⇗,3,9
-26,75,1944-03-16,"Target: Aircraft Assembly & Repair WorksType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Secondary,Bad Day At AugsburgPilot/Aircraft losses:Ledbetter / 42‑37801 ⇗Stier / 42‑37848 ⇗,3,16
-27,76,1944-03-18,"Target: Aircraft Assembly & Repair WorksType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Primary,Two Targets AttackedPilot/Aircraft losses:LaSeur / 42‑31871 ⇗Smith / 42‑37793 ⇗,3,18
-28,77,1944-03-19,"Target: NOBALL (V-2 Storage and Launch Site)Type: CROSSBOW (V-Weapons)Location: Wizernes, France",Primary,Traffic Conflict & Equipment FailurePilot/Aircraft losses:Lovell / 42‑31926 ⇗,3,19
+0,49,1944-01-04,"Target: Port AreaType: TransportationLocation: Kiel, Germany",Primary,Port AttackedPilot/Aircraft losses: Kaczaraba / 42‑5838 ⇗,1,4
+1,50,1944-01-05,"Target: Port AreaType: TransportationLocation: Kiel, Germany",Primary,Smokescreen Not Effective No Aircraft Lost,1,5
+2,51,1944-01-07,"Target: PowerhouseType: IndustryLocation: Ludwigshafen, Germany",Primary,Few Aircraft Join Formation Pilot/Aircraft losses:Garner / 41‑24525 ⇗,1,7
+3,52,1944-01-11,"Target: Ju-88 Aircraft Parts PlantType: Aircraft IndustryLocation: Halberstadt, Germany",Other,Port City Bombed No Aircraft Lost,1,11
+4,53,1944-01-14,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Le Meillard, France",Primary,V-Weapons Site Bombed Pilot/Aircraft losses:Britt / 42‑31246 ⇗,1,14
+5,54,1944-01-21,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Preuseville, France",Primary,Weather Affects Bombing No Aircraft Lost,1,21
+6,55,1944-01-29,"Target: Aircraft Parts PlantsType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,Technology Trumps Overcast Targets No Aircraft Lost,1,29
+7,56,1944-01-30,"Target: Aircraft Assembly PlantType: Aircraft IndustryLocation: Brunswick / Braunschweig, Germany",Primary,Aircraft Plant Attacked Pilot/Aircraft losses: Penney / 42‑37727 ⇗Ross / 42‑5444 ⇗Writz / 42‑5404 ⇗,1,30
+8,57,1944-02-03,"Target: Submarines (under construction)Type: Submarine FacilityLocation: Wilhelmshaven, Germany",Primary,Challenging Weather No Aircraft Lost,2,3
+9,58,1944-02-04,"Target: Alfred Teves Main Works: Aircraft Parts PlantType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,Attack On Aircraft Parts Plant No Aircraft Lost,2,4
+10,59,1944-02-05,"Target: Bricy Aerodrome, Luftwaffe Training and Bomber AirfieldType: German Air Force (Luftwaffe)Location: Orleans, France",Primary,Luftwaffe Airfield Bombed No Aircraft Lost,2,5
+11,60,1944-02-06,"Target: Nancy/Essey AerodromeType: German Air Force (Luftwaffe)Location: Nancy, France",None,"Clouds, Snow Conceal Targets No Aircraft Lost",2,6
+12,61,1944-02-08,"Target: Piston Ring FactoryType: IndustryLocation: Frankfurt am Main, Germany",Primary,Radar Bombing Today Pilot/Aircraft losses: Covington / 42‑39784 ⇗,2,8
+13,62,1944-02-11,"Target: Propeller Factory (Foundry)Type: Aircraft IndustryLocation: Frankfurt am Main, Germany",TOO,Visual Attack Despite Confusion Pilot/Aircraft losses: Moore / 42‑40005 ⇗Widener / 42‑39962 ⇗,2,11
+14,63,1944-02-20,"Type: Aircraft IndustryLocation: Leipzig & Bernburg, Germany",Primary,Big Week Begins! No Aircraft Lost,2,20
+15,64,1944-02-21,"Target: Fighter Field & Aircraft Storage DepotType: German Air Force (Luftwaffe)Location: Werl, Germany",TOO,Big Week: Day Two No Aircraft Lost,2,21
+16,65,1944-02-22,"Target: Aircraft FactoryType: Aircraft IndustryLocation: Halberstadt & Aschersleben, Germany",Primary,"Big Week, Day Three Pilot/Aircraft losses: DeFrees / 42‑97488 ⇗Jeter / 42‑31516 ⇗Kew / 42‑3087 ⇗Markow / 42‑97450 ⇗McDonald / 42‑39809 ⇗",2,22
+17,66,1944-02-24,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,"Big Week, Day Five No Aircraft Lost",2,24
+18,67,1944-02-25,"Target: Aircraft Assembly & Ball Bearings PlantsType: IndustryLocation: Augsburg & Stuttgart, Germany",Primary,"Big Week, Last Day Pilot/Aircraft losses:Larsen / 42‑29717 ⇗",2,25
+19,68,1944-02-28,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Preuseville, France",None,Weather Prevents BombingPilot/Aircraft losses: Rinne / 42‑31058 ⇗,2,28
+20,69,1944-03-02,"Target: Alfred Teves Main Works: Aircraft Parts Plant and Machine ShopType: Aircraft IndustryLocation: Frankfurt am Main, Germany",Primary,"Radar Bombing, Results Unobserved No Aircraft Lost",3,2
+21,70,1944-03-03,"Target: Roller-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",None,8th AF: Mission Recalled No Aircraft Lost,3,3
+22,71,1944-03-04,"Type: MilitaryLocation: Berlin, Germany",TOO,Weather Alters Mission Pilot/Aircraft losses: Carpenter / 42‑39991 ⇗Cosentino / 42‑32007 ⇗Lovvorn / 42‑31606 ⇗,3,4
+23,72,1944-03-06,"Target: Erkner Ball-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",Secondary,Berlin Attacked - Finally! No Aircraft Lost,3,6
+24,73,1944-03-08,"Target: Erkner Ball-Bearing FactoryType: Bearings IndustryLocation: Berlin, Germany",Primary,384th Leads Wing To Berlin No Aircraft Lost,3,8
+25,74,1944-03-09,"Target: Heinkel Aircraft PlantType: Aircraft IndustryLocation: Oranienburg, Germany",Secondary,Secondary Target Attacked With PFF Pilot/Aircraft losses: Reed / 42‑37781 ⇗,3,9
+26,75,1944-03-16,"Target: Aircraft Assembly & Repair WorksType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Secondary,Bad Day At Augsburg Pilot/Aircraft losses: Ledbetter / 42‑37801 ⇗Stier / 42‑37848 ⇗,3,16
+27,76,1944-03-18,"Target: Aircraft Assembly & Repair WorksType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Primary,Two Targets Attacked Pilot/Aircraft losses: LaSeur / 42‑31871 ⇗Smith / 42‑37793 ⇗,3,18
+28,77,1944-03-19,"Target: NOBALL (V-2 Storage and Launch Site)Type: CROSSBOW (V-Weapons)Location: Wizernes, France",Primary,Traffic Conflict & Equipment Failure Pilot/Aircraft losses: Lovell / 42‑31926 ⇗,3,19
 29,78,1944-03-20,"Type: IndustryLocation: Frankfurt am Main, Germany",None,Weather Forces RecallNo Aircraft Lost,3,20
-30,79,1944-03-22,"Target: Heinkel Aircraft Assembly Plant at Annahof AirfieldType: Aircraft IndustryLocation: Oranienburg, Germany",Secondary,Berlin AttackedNo Aircraft Lost,3,22
-31,80,1944-03-23,"Target: Airdrome and AirparkType: German Air Force (Luftwaffe)Location: Gütersloh, Germany",TOO,Targets of Opportunity AttackedNo Aircraft Lost,3,23
-32,81,1944-03-24,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Secondary,Ball Bearing Plant SparedPilot/Aircraft losses:Briley / 42‑31166 ⇗,3,24
-33,82,1944-03-26,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Le Grismont, Rebecques, France",Primary,V-1 Complex Hit HardNo Aircraft Lost,3,26
-34,83,1944-03-27,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Tours & Chartres, France",Primary,"Airfield Attacked, Results MixedNo Aircraft Lost",3,27
-35,84,1944-03-28,"Target: Dijon-Longvic AirfieldType: German Air Force (Luftwaffe)Location: Dijon, France",Primary,Clear Weather = Good BombingNo Aircraft Lost,3,28
-36,85,1944-03-29,"Target: Railroad Marshalling YardsType: TransportationLocation: Brunswick / Braunschweig, Germany",TOO,No Bomb Drop SignalNo Aircraft Lost,3,29
-37,86,1944-04-09,"Target: FW-190 Fighter Aircraft Assembly PlantType: Aircraft IndustryLocation: Marienburg, Germany",Primary,Weather Causes Assembly HavocPilot/Aircraft losses:Schock / 42‑31740 ⇗,4,9
-38,87,1944-04-10,"Target: Evere Airfield (50°54'3""N 4°20'9""E)Type: German Air Force (Luftwaffe)Location: Brussels / Bruxelles, Belgium",Primary,Good Weather HelpsNo Aircraft Lost,4,10
-39,88,1944-04-11,"Target: FW Aircraft Parts PlantType: Aircraft IndustryLocation: Sorau, Germany",Primary,384th Overcomes WeatherPilot/Aircraft losses:Rich / 42‑31375 ⇗,4,11
-40,89,1944-04-13,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,"Primary Attacked, Huge LossesPilot/Aircraft losses:Briley / 42‑97233 ⇗Fioretti / 42‑38112 ⇗Heffley / 42‑37816 ⇗Lavin / 42‑97274 ⇗Miller / 42‑31048 ⇗Poole / 42‑97228 ⇗Stearns / 42‑31433 ⇗Swanson / 42‑97124 ⇗Tollison / 42‑97231 ⇗",4,13
-41,90,1944-04-18,"Target: Aircraft Parts PlantType: Aircraft IndustryLocation: Oranienburg, Germany",Primary,Attack on Aircraft PlantNo Aircraft Lost,4,18
-42,91,1944-04-19,"Target: Fieseler Aircraft PlantType: Aircraft IndustryLocation: Kassel (Waldau), Germany",Primary,Aircraft Industry TargetedNo Aircraft Lost,4,19
-43,92,1944-04-20,"Target: V-Weapon Service Bunker (under construction)Type: CROSSBOW (V-Weapons)Location: Sottevast, France",Primary,V-Weapons AttackedNo Aircraft Lost,4,20
-44,93,1944-04-22,"Target: Railroad Marshalling YardsType: TransportationLocation: Hamm, Germany",Primary,Transportation TargetedNo Aircraft Lost,4,22
-45,94,1944-04-24,"Target: Dornier-Werke GMBH Aircraft PlantType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Primary,Aircraft Factory DemolishedPilot/Aircraft losses:Bailey / 42‑102446 ⇗Brouillard / 42‑97221 ⇗Broyhill / 42‑37885 ⇗Edwards / 42‑97477 ⇗Haley / 42‑97372 ⇗Harvey / 42‑31346 ⇗MacKichan / 42‑38158 ⇗,4,24
-46,95,1944-04-25,"Target: Metz-Frescaty AirdromeType: German Air Force (Luftwaffe)Location: Metz, France",None,Traffic and Weather Prevent AttackNo Aircraft Lost,4,25
-47,96,1944-04-27,"Target: V-Weapon Service Bunker (under construction)Type: CROSSBOW (V-Weapons)Location: Sottevast, France",Primary,V-Weapons AttackedPilot/Aircraft losses:Small / 42‑97136 ⇗,4,27
-48,97,1944-04-27,"Target: Toul/Croix de Metz AirfieldType: German Air Force (Luftwaffe)Location: Nancy, France",Primary,Airfield TargetedNo Aircraft Lost,4,27
-49,98,1944-04-29,"Target: Industrial DistrictType: IndustryLocation: Berlin, Germany",Primary,Industry TargetedPilot/Aircraft losses:Bouvier / 42‑102448 ⇗,4,29
+30,79,1944-03-22,"Target: Heinkel Aircraft Assembly Plant at Annahof AirfieldType: Aircraft IndustryLocation: Oranienburg, Germany",Secondary,Berlin Attacked No Aircraft Lost,3,22
+31,80,1944-03-23,"Target: Airdrome and AirparkType: German Air Force (Luftwaffe)Location: Gütersloh, Germany",TOO,Targets of Opportunity Attacked No Aircraft Lost,3,23
+32,81,1944-03-24,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Secondary,Ball Bearing Plant Spared Pilot/Aircraft losses: Briley / 42‑31166 ⇗,3,24
+33,82,1944-03-26,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Le Grismont, Rebecques, France",Primary,V-1 Complex Hit Hard No Aircraft Lost,3,26
+34,83,1944-03-27,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Tours & Chartres, France",Primary,"Airfield Attacked, Results Mixed No Aircraft Lost",3,27
+35,84,1944-03-28,"Target: Dijon-Longvic AirfieldType: German Air Force (Luftwaffe)Location: Dijon, France",Primary,Clear Weather = Good Bombing No Aircraft Lost,3,28
+36,85,1944-03-29,"Target: Railroad Marshalling YardsType: TransportationLocation: Brunswick / Braunschweig, Germany",TOO,No Bomb Drop Signal No Aircraft Lost,3,29
+37,86,1944-04-09,"Target: FW-190 Fighter Aircraft Assembly PlantType: Aircraft IndustryLocation: Marienburg, Germany",Primary,Weather Causes Assembly Havoc Pilot/Aircraft losses:Schock / 42‑31740 ⇗,4,9
+38,87,1944-04-10,"Target: Evere Airfield (50°54'3""N 4°20'9""E)Type: German Air Force (Luftwaffe)Location: Brussels / Bruxelles, Belgium",Primary,Good Weather Helps No Aircraft Lost,4,10
+39,88,1944-04-11,"Target: FW Aircraft Parts PlantType: Aircraft IndustryLocation: Sorau, Germany",Primary,384th Overcomes Weather Pilot/Aircraft losses:Rich / 42‑31375 ⇗,4,11
+40,89,1944-04-13,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,"Primary Attacked, Huge Losses Pilot/Aircraft losses:Briley / 42‑97233 ⇗Fioretti / 42‑38112 ⇗Heffley / 42‑37816 ⇗Lavin / 42‑97274 ⇗Miller / 42‑31048 ⇗Poole / 42‑97228 ⇗Stearns / 42‑31433 ⇗Swanson / 42‑97124 ⇗Tollison / 42‑97231 ⇗",4,13
+41,90,1944-04-18,"Target: Aircraft Parts PlantType: Aircraft IndustryLocation: Oranienburg, Germany",Primary,Attack on Aircraft Plant No Aircraft Lost,4,18
+42,91,1944-04-19,"Target: Fieseler Aircraft PlantType: Aircraft IndustryLocation: Kassel (Waldau), Germany",Primary,Aircraft Industry Targeted No Aircraft Lost,4,19
+43,92,1944-04-20,"Target: V-Weapon Service Bunker (under construction)Type: CROSSBOW (V-Weapons)Location: Sottevast, France",Primary,V-Weapons Attacked No Aircraft Lost,4,20
+44,93,1944-04-22,"Target: Railroad Marshalling YardsType: TransportationLocation: Hamm, Germany",Primary,Transportation Targeted No Aircraft Lost,4,22
+45,94,1944-04-24,"Target: Dornier-Werke GMBH Aircraft PlantType: Aircraft IndustryLocation: Oberpfaffenhofen, Germany",Primary,Aircraft Factory Demolished Pilot/Aircraft losses: Bailey / 42‑102446 ⇗Brouillard / 42‑97221 ⇗Broyhill / 42‑37885 ⇗Edwards / 42‑97477 ⇗Haley / 42‑97372 ⇗Harvey / 42‑31346 ⇗MacKichan / 42‑38158 ⇗,4,24
+46,95,1944-04-25,"Target: Metz-Frescaty AirdromeType: German Air Force (Luftwaffe)Location: Metz, France",None,Traffic and Weather Prevent Attack No Aircraft Lost,4,25
+47,96,1944-04-27,"Target: V-Weapon Service Bunker (under construction)Type: CROSSBOW (V-Weapons)Location: Sottevast, France",Primary,V-Weapons Attacked Pilot/Aircraft losses: Small / 42‑97136 ⇗,4,27
+48,97,1944-04-27,"Target: Toul/Croix de Metz AirfieldType: German Air Force (Luftwaffe)Location: Nancy, France",Primary,Airfield Targeted No Aircraft Lost,4,27
+49,98,1944-04-29,"Target: Industrial DistrictType: IndustryLocation: Berlin, Germany",Primary,Industry Targeted Pilot/Aircraft losses: Bouvier / 42‑102448 ⇗,4,29
 50,99,1944-05-01,"Target: Launch Site in Foret Nationale de TournehemType: CROSSBOW (V-Weapons)Location: Foret Nationale de Tournehem, France",Last Resort Target,Last Resort Target BombedNo Aircraft Lost,5,1
 51,100,1944-05-04,"Target: Friedrichstrasse Railroad StationType: TransportationLocation: Berlin, Germany",None,Mission RecalledNo Aircraft Lost,5,4
 52,101,1944-05-07,"Target: Friedrichstrasse Railroad StationType: TransportationLocation: Berlin, Germany",Primary,Rail Transportation AttackedPilot/Aircraft losses:Goller / 42‑31235 ⇗,5,7
@@ -57,145 +57,145 @@
 55,104,1944-05-09,"Target: Railroad Marshalling YardsType: TransportationLocation: Thionville, France",Primary,Railroad Hub AttackedNo Aircraft Lost,5,9
 56,105,1944-05-11,"Target: Railroad Marshalling YardsType: TransportationLocation: Saarbrücken and Ehrang, Germany",Primary,Railroads TargetedNo Aircraft Lost,5,11
 57,106,1944-05-12,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,First 384th Oil Industry AttackNo Aircraft Lost,5,12
-58,107,1944-05-13,"Target: Aircraft Assembly Components Factory.Type: Aircraft IndustryLocation: Poznań, Poland",Secondary,Clouds Hide Primary - Again!Pilot/Aircraft losses:Baker / 42‑102548 ⇗Francis / 42‑97404 ⇗,5,13
-59,108,1944-05-15,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Mimoyecques, France",None,No Bombing TodayNo Aircraft Lost,5,15
-60,109,1944-05-19,"Target: Unidentified Industrial AreaType: IndustryLocation: Berlin, Germany",TOO,Weather Causes ConfusionNo Aircraft Lost,5,19
-61,110,1944-05-20,"Target: Orly AirportType: German Air Force (Luftwaffe)Location: Paris, France",Primary,Luftwaffe AttackedNo Aircraft Lost,5,20
-62,111,1944-05-21,"Target: NOBALL (Supergun Site)Type: CROSSBOW (V-Weapons)Location: Mimoyecques, France",Primary,Mixed Results TodayNo Aircraft Lost,5,21
-63,112,1944-05-22,"Target: Warehouse District in the Dock AreaType: TransportationLocation: Kiel, Germany",Primary,Docks Area AttackedPilot/Aircraft losses:Castleman / 42‑102402 ⇗,5,22
-64,113,1944-05-23,"Target: Nancy/Essey AirfieldType: German Air Force (Luftwaffe)Location: Nancy, France",Secondary,"Weather ""NOT AS BRIEFED""No Aircraft Lost",5,23
-65,114,1944-05-24,"Target: Unidentified Military InstallationsType: MilitaryLocation: Berlin, Germany",Primary,"Big ""B"" And Bad WeatherPilot/Aircraft losses:Seamon / 42‑31364 ⇗",5,24
-66,115,1944-05-25,"Target: Railroad Marshalling YardsType: TransportationLocation: Sarreguemines and Blainville-sur-l'Eau, France",Primary,Focus on TransportationNo Aircraft Lost,5,25
-67,116,1944-05-27,"Target: Railroad Marshalling YardsType: TransportationLocation: Mannheim, Germany",Primary,Bad Day For The RailroadNo Aircraft Lost,5,27
-68,117,1944-05-28,"Target: Junkers Aircraft PlantType: Aircraft IndustryLocation: Dessau, Germany",TOO,Equipment and Smokescreen ProblemsNo Aircraft Lost,5,28
-69,118,1944-05-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,"The ""Grapefruit"" MissionNo Aircraft Lost",5,28
-70,119,1944-05-29,"Target: Focke-Wulf Aircraft Parts PlantType: Aircraft IndustryLocation: Krzesiny District, Poznań, Poland",Primary,"Long Mission, Good BombingPilot/Aircraft losses:Moore / 42‑97573 ⇗",5,29
-71,120,1944-05-30,"Target: Aircraft Hangars and Repair ShedsType: Aircraft IndustryLocation: Halberstadt, Germany",Primary,Airfield TargetedNo Aircraft Lost,5,30
-72,121,1944-05-31,"Target: Railroad Marshalling YardsType: TransportationLocation: Colmar, France",TOO,Weather Diverts BombersNo Aircraft Lost,5,31
-73,122,1944-06-02,"Target: Gun Battery with six 155mm guns, Tactical SupportType: MilitaryLocation: Hardelot (5 miles S of Boulogne), France",Primary,Pre-Invasion Tactical TargetsNo Aircraft Lost,6,2
-74,123,1944-06-02,"Target: Four Medium Howitzer Batteries, Tactical SupportType: MilitaryLocation: Neufchatel (5 miles SE of Hardelot), France",Primary,Pre-Invasion Tactical TargetsNo Aircraft Lost,6,2
-75,124,1944-06-03,"Target: Coastal Artillery BatteryType: MilitaryLocation: Le Touquet, France",TOO,Equipment DifficultiesNo Aircraft Lost,6,3
-76,125,1944-06-04,"Target: Artillery BatteryType: MilitaryLocation: Hardelot (Boulogne area), France",Primary,Tactical Targets AgainNo Aircraft Lost,6,4
-77,126,1944-06-05,"Target: Field Artillery BatteryType: MilitaryLocation: La Fosse, France",Primary,Two Targets AttackedNo Aircraft Lost,6,5
-78,127,1944-06-06,"Target: Rocket Gun InstallationType: MilitaryLocation: 'Meuvaines' (actually, 1.3 miles SE of Crépon), France",Primary,Blanked by WeatherNo Aircraft Lost,6,6
-79,128,1944-06-06,"Target: Two BridgesType: TransportationLocation: Caen, France",Primary,Tactical Bridges TargetedNo Aircraft Lost,6,6
-80,129,1944-06-06,"Target: Highway Choke Point in City of CaenType: TransportationLocation: Caen, France",None,Weather Stymies BombersNo Aircraft Lost,6,6
-81,130,1944-06-07,"Target: Transportation HubType: MilitaryLocation: Condé-sur-Noireau, France",Primary,Bombers Cut Transport RoutesNo Aircraft Lost,6,7
+58,107,1944-05-13,"Target: Aircraft Assembly Components Factory.Type: Aircraft IndustryLocation: Poznań, Poland",Secondary,Clouds Hide Primary - Again! Pilot/Aircraft losses: Baker / 42‑102548 ⇗Francis / 42‑97404 ⇗,5,13
+59,108,1944-05-15,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Mimoyecques, France",None,No Bombing Today No Aircraft Lost,5,15
+60,109,1944-05-19,"Target: Unidentified Industrial AreaType: IndustryLocation: Berlin, Germany",TOO,Weather Causes Confusion No Aircraft Lost,5,19
+61,110,1944-05-20,"Target: Orly AirportType: German Air Force (Luftwaffe)Location: Paris, France",Primary,Luftwaffe Attacked No Aircraft Lost,5,20
+62,111,1944-05-21,"Target: NOBALL (Supergun Site)Type: CROSSBOW (V-Weapons)Location: Mimoyecques, France",Primary,Mixed Results Today No Aircraft Lost,5,21
+63,112,1944-05-22,"Target: Warehouse District in the Dock AreaType: TransportationLocation: Kiel, Germany",Primary,Docks Area Attacked Pilot/Aircraft losses: Castleman / 42‑102402 ⇗,5,22
+64,113,1944-05-23,"Target: Nancy/Essey AirfieldType: German Air Force (Luftwaffe)Location: Nancy, France",Secondary,"Weather ""NOT AS BRIEFED"" No Aircraft Lost",5,23
+65,114,1944-05-24,"Target: Unidentified Military InstallationsType: MilitaryLocation: Berlin, Germany",Primary,"Big ""B"" And Bad Weather Pilot/Aircraft losses:Seamon / 42‑31364 ⇗",5,24
+66,115,1944-05-25,"Target: Railroad Marshalling YardsType: TransportationLocation: Sarreguemines and Blainville-sur-l'Eau, France",Primary,Focus on Transportation No Aircraft Lost,5,25
+67,116,1944-05-27,"Target: Railroad Marshalling YardsType: TransportationLocation: Mannheim, Germany",Primary,Bad Day For The Railroad No Aircraft Lost,5,27
+68,117,1944-05-28,"Target: Junkers Aircraft PlantType: Aircraft IndustryLocation: Dessau, Germany",TOO,Equipment and Smokescreen Problems No Aircraft Lost,5,28
+69,118,1944-05-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,"The ""Grapefruit"" Mission No Aircraft Lost",5,28
+70,119,1944-05-29,"Target: Focke-Wulf Aircraft Parts PlantType: Aircraft IndustryLocation: Krzesiny District, Poznań, Poland",Primary,"Long Mission, Good Bombing Pilot/Aircraft losses: Moore / 42‑97573 ⇗",5,29
+71,120,1944-05-30,"Target: Aircraft Hangars and Repair ShedsType: Aircraft IndustryLocation: Halberstadt, Germany",Primary,Airfield Targeted No Aircraft Lost,5,30
+72,121,1944-05-31,"Target: Railroad Marshalling YardsType: TransportationLocation: Colmar, France",TOO,Weather Diverts Bombers No Aircraft Lost,5,31
+73,122,1944-06-02,"Target: Gun Battery with six 155mm guns, Tactical SupportType: MilitaryLocation: Hardelot (5 miles S of Boulogne), France",Primary,Pre-Invasion Tactical Targets No Aircraft Lost,6,2
+74,123,1944-06-02,"Target: Four Medium Howitzer Batteries, Tactical SupportType: MilitaryLocation: Neufchatel (5 miles SE of Hardelot), France",Primary,Pre-Invasion Tactical Targets No Aircraft Lost,6,2
+75,124,1944-06-03,"Target: Coastal Artillery BatteryType: MilitaryLocation: Le Touquet, France",TOO,Equipment Difficulties No Aircraft Lost,6,3
+76,125,1944-06-04,"Target: Artillery BatteryType: MilitaryLocation: Hardelot (Boulogne area), France",Primary,Tactical Targets Again No Aircraft Lost,6,4
+77,126,1944-06-05,"Target: Field Artillery BatteryType: MilitaryLocation: La Fosse, France",Primary,Two Targets Attacked No Aircraft Lost,6,5
+78,127,1944-06-06,"Target: Rocket Gun InstallationType: MilitaryLocation: 'Meuvaines' (actually, 1.3 miles SE of Crépon), France",Primary,Blanked by Weather No Aircraft Lost,6,6
+79,128,1944-06-06,"Target: Two BridgesType: TransportationLocation: Caen, France",Primary,Tactical Bridges Targeted No Aircraft Lost,6,6
+80,129,1944-06-06,"Target: Highway Choke Point in City of CaenType: TransportationLocation: Caen, France",None,Weather Stymies Bombers No Aircraft Lost,6,6
+81,130,1944-06-07,"Target: Transportation HubType: MilitaryLocation: Condé-sur-Noireau, France",Primary,Bombers Cut Transport Routes No Aircraft Lost,6,7
 82,131,1944-06-08,"Target: Railroad Marshalling Yards (41C) & Loire River Railroad Bridge (41D)Type: TransportationLocation: Orleans, France",Primary,Railroads Targeted with Mixed ResultsNo Aircraft Lost,6,8
-83,132,1944-06-10,"Target: Chateau Bougon Airfield (41A) & Vannes Airfield (41B)Type: German Air Force (Luftwaffe)Location: Nantes & Vannes, France",Primary,Excellent Bombing ResultsNo Aircraft Lost,6,10
-84,133,1944-06-12,"Target: Railroad Bridge 48°29'N,2°0'WType: TransportationLocation: La Vicomté-sur-Rance, France",TOO,A Different Bridge DestroyedNo Aircraft Lost,6,12
-85,134,1944-06-13,"Target: Dreux AirfieldType: German Air Force (Luftwaffe)Location: Dreux, France",Primary,Airfield AttackedNo Aircraft Lost,6,13
-86,135,1944-06-14,"Target: Coulommiers AirfieldType: German Air Force (Luftwaffe)Location: Coulommiers, France",TOO,Clouds Cover PrimaryPilot/Aircraft losses:Summerville / 42‑97188 ⇗,6,14
-87,136,1944-06-15,"Target: Railroad ViaductType: TransportationLocation: La Possonnièrre, France",Primary,Railroad Bridge DamagedNo Aircraft Lost,6,15
-88,137,1944-06-16,"Target: Athies AirfieldType: German Air Force (Luftwaffe)Location: Laon, France",Primary,Enemy Airfield DamagedNo Aircraft Lost,6,16
-89,138,1944-06-18,"Target: Ölwerke Julius HumblesType: Oil IndustryLocation: Hamburg, Germany",Primary,Bombed Using PFFNo Aircraft Lost,6,18
-90,139,1944-06-19,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury & Crépy, France",Primary,Weather Limits BombingNo Aircraft Lost,6,19
-91,140,1944-06-19,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury & Crépy, France",Secondary,Weather Changes PlansNo Aircraft Lost,6,19
-92,141,1944-06-20,"Target: Oil RefineriesType: Oil IndustryLocation: Harburg (Hamburg area), Germany",Primary,Oil Refineries TargetedNo Aircraft Lost,6,20
-93,142,1944-06-21,"Target: Friedrichstrasse Industrial AreaType: IndustryLocation: Berlin, Germany",Primary,Berlin Industries BombedPilot/Aircraft losses:Finch / 42‑107221 ⇗,6,21
-94,143,1944-06-22,"Target: V-2 Storage & Launch SiteType: CROSSBOW (V-Weapons)Location: Wizernes, France",Primary,V-2 Underground BunkerNo Aircraft Lost,6,22
-95,144,1944-06-22,"Target: Railroad Marshalling YardsType: TransportationLocation: Lille (Fives district), France",Primary,Transportation AttackedNo Aircraft Lost,6,22
-96,347,1944-06-23,"Target: Various portions of a V-1 installation.Type: CROSSBOW (V-Weapons)Location: Fienvillers, France",Primary,Tactical ActionNo Aircraft Lost,6,23
-97,145,1944-06-24,"Target: German Vacuum Oil CompanyType: Oil IndustryLocation: Oslebshausen (Bremen area), Germany",Primary,Oil Pressure ContinuesNo Aircraft Lost,6,24
-98,146,1944-06-25,"Target: Railroad Bridge & EmbankmentType: TransportationLocation: Sens, France",Primary,Tactical Bridges AttackedNo Aircraft Lost,6,25
-99,147,1944-06-27,"Target: NOBALL (V-1 Storage Depot)Type: CROSSBOW (V-Weapons)Location: Saint-Martin-L'Hortier, France",Primary,V-Weapon Depot AttackedNo Aircraft Lost,6,27
-100,148,1944-06-28,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Juvincourt (Juvincourt-et-Damary), France",Primary,Airfield AttackedNo Aircraft Lost,6,28
-101,149,1944-06-30,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Montdidier, France",Primary,Airfield AttackedNo Aircraft Lost,6,30
-102,150,1944-07-04,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Dreux (Conches-en-Ouche), France",Primary,Airfield AttackedNo Aircraft Lost,7,4
-103,151,1944-07-06,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Coubronne, France",Various,Traffic JamNo Aircraft Lost,7,6
-104,152,1944-07-06,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Blanc Pignon Ferme, Cléty, France",TOO,Overcoming Weather DiffucultyNo Aircraft Lost,7,6
-105,153,1944-07-07,"Target: Me-109 Aircraft FactoryType: Aircraft IndustryLocation: Leipzig, Germany",Primary,Me-109 Factory TargetedPilot/Aircraft losses:Anderson / 42‑102442 ⇗Bagby / 44‑6147 ⇗,7,7
-106,154,1944-07-08,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Renescure, France",TOO,Weather Hides Primary TargetNo Aircraft Lost,7,8
-107,155,1944-07-11,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,First 384th Munich MissionNo Aircraft Lost,7,11
-108,156,1944-07-12,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,A Second Long Ride to MunichPilot/Aircraft losses:Rosborough / 42‑97273 ⇗,7,12
-109,157,1944-07-13,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,Third Munich MissionNo Aircraft Lost,7,13
-110,158,1944-07-16,"Target: Aero Engine FactoryType: Aircraft IndustryLocation: Munich / München, Germany",Primary,Again to MunichPilot/Aircraft losses:Coleman / 42‑107064 ⇗,7,16
+83,132,1944-06-10,"Target: Chateau Bougon Airfield (41A) & Vannes Airfield (41B)Type: German Air Force (Luftwaffe)Location: Nantes & Vannes, France",Primary,Excellent Bombing Results No Aircraft Lost,6,10
+84,133,1944-06-12,"Target: Railroad Bridge 48°29'N,2°0'WType: TransportationLocation: La Vicomté-sur-Rance, France",TOO,A Different Bridge Destroyed No Aircraft Lost,6,12
+85,134,1944-06-13,"Target: Dreux AirfieldType: German Air Force (Luftwaffe)Location: Dreux, France",Primary,Airfield Attacked No Aircraft Lost,6,13
+86,135,1944-06-14,"Target: Coulommiers AirfieldType: German Air Force (Luftwaffe)Location: Coulommiers, France",TOO,Clouds Cover Primary Pilot/Aircraft losses: Summerville / 42‑97188 ⇗,6,14
+87,136,1944-06-15,"Target: Railroad ViaductType: TransportationLocation: La Possonnièrre, France",Primary,Railroad Bridge Damaged No Aircraft Lost,6,15
+88,137,1944-06-16,"Target: Athies AirfieldType: German Air Force (Luftwaffe)Location: Laon, France",Primary,Enemy Airfield Damaged No Aircraft Lost,6,16
+89,138,1944-06-18,"Target: Ölwerke Julius HumblesType: Oil IndustryLocation: Hamburg, Germany",Primary,Bombed Using PFF No Aircraft Lost,6,18
+90,139,1944-06-19,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury & Crépy, France",Primary,Weather Limits Bombing No Aircraft Lost,6,19
+91,140,1944-06-19,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury & Crépy, France",Secondary,Weather Changes Plans No Aircraft Lost,6,19
+92,141,1944-06-20,"Target: Oil RefineriesType: Oil IndustryLocation: Harburg (Hamburg area), Germany",Primary,Oil Refineries Targeted No Aircraft Lost,6,20
+93,142,1944-06-21,"Target: Friedrichstrasse Industrial AreaType: IndustryLocation: Berlin, Germany",Primary,Berlin Industries Bombed Pilot/Aircraft losses:Finch / 42‑107221 ⇗,6,21
+94,143,1944-06-22,"Target: V-2 Storage & Launch SiteType: CROSSBOW (V-Weapons)Location: Wizernes, France",Primary,V-2 Underground Bunker No Aircraft Lost,6,22
+95,144,1944-06-22,"Target: Railroad Marshalling YardsType: TransportationLocation: Lille (Fives district), France",Primary,Transportation Attacked No Aircraft Lost,6,22
+96,347,1944-06-23,"Target: Various portions of a V-1 installation.Type: CROSSBOW (V-Weapons)Location: Fienvillers, France",Primary,Tactical Action No Aircraft Lost,6,23
+97,145,1944-06-24,"Target: German Vacuum Oil CompanyType: Oil IndustryLocation: Oslebshausen (Bremen area), Germany",Primary,Oil Pressure Continues No Aircraft Lost,6,24
+98,146,1944-06-25,"Target: Railroad Bridge & EmbankmentType: TransportationLocation: Sens, France",Primary,Tactical Bridges Attacked No Aircraft Lost,6,25
+99,147,1944-06-27,"Target: NOBALL (V-1 Storage Depot)Type: CROSSBOW (V-Weapons)Location: Saint-Martin-L'Hortier, France",Primary,V-Weapon Depot Attacked No Aircraft Lost,6,27
+100,148,1944-06-28,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Juvincourt (Juvincourt-et-Damary), France",Primary,Airfield Attacked No Aircraft Lost,6,28
+101,149,1944-06-30,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Montdidier, France",Primary,Airfield Attacked No Aircraft Lost,6,30
+102,150,1944-07-04,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Dreux (Conches-en-Ouche), France",Primary,Airfield Attacked No Aircraft Lost,7,4
+103,151,1944-07-06,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Coubronne, France",Various,Traffic Jam No Aircraft Lost,7,6
+104,152,1944-07-06,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Blanc Pignon Ferme, Cléty, France",TOO,Overcoming Weather Diffuculty No Aircraft Lost,7,6
+105,153,1944-07-07,"Target: Me-109 Aircraft FactoryType: Aircraft IndustryLocation: Leipzig, Germany",Primary,Me-109 Factory Targeted Pilot/Aircraft losses: Anderson / 42‑102442 ⇗Bagby / 44‑6147 ⇗,7,7
+106,154,1944-07-08,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Renescure, France",TOO,Weather Hides Primary Target No Aircraft Lost,7,8
+107,155,1944-07-11,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,First 384th Munich Mission No Aircraft Lost,7,11
+108,156,1944-07-12,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,A Second Long Ride to Munich Pilot/Aircraft losses: Rosborough / 42‑97273 ⇗,7,12
+109,157,1944-07-13,"Target: Railroad Marshalling YardsType: TransportationLocation: Munich / München, Germany",Primary,Third Munich Mission No Aircraft Lost,7,13
+110,158,1944-07-16,"Target: Aero Engine FactoryType: Aircraft IndustryLocation: Munich / München, Germany",Primary,Again to Munich Pilot/Aircraft losses: Coleman / 42‑107064 ⇗,7,16
 111,159,1944-07-17,"Target: Beautor BridgeType: TransportationLocation: Beautor, France",Various,Myriad ProblemsNo Aircraft Lost,7,17
-112,160,1944-07-18,"Target: Rocket Research & Development ComplexType: CROSSBOW (V-Weapons)Location: Peenemünde & Zinnowitz, Germany",Primary,V-Weapons Development TargetedNo Aircraft Lost,7,18
-113,161,1944-07-19,"Target: Hydrogen Peroxide PlantType: CROSSBOW (V-Weapons)Location: Höllriegelskreuth District, Pullach, Germany",Primary,384th Leads 1st DivisionPilot/Aircraft losses:Bodker / 42‑97449 ⇗Heim / 42‑97178 ⇗Mount / 42‑97237 ⇗,7,19
-114,162,1944-07-20,"Target: Aircraft PlantsType: Aircraft IndustryLocation: Dessau, Germany",Secondary,Airfield AttackedPilot/Aircraft losses:Grant / 42‑37974 ⇗,7,20
-115,163,1944-07-21,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Schwäbisch Hall, Germany",Secondary,Ludwigshfen Industries AttackedNo Aircraft Lost,7,21
-116,164,1944-07-24,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: La Chapelle en Juger & Hébécrevon, France",TOO,Weather Limits AttacksNo Aircraft Lost,7,24
-117,165,1944-07-25,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: Montreuil-sur-Lozon, Le Châtel,& La Chapelle en Juger, France",Primary,Support For Imminent AttackNo Aircraft Lost,7,25
-118,166,1944-07-28,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Return To MerseburgNo Aircraft Lost,7,28
-119,167,1944-07-29,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Merseburg Slammed AgainPilot/Aircraft losses:Sweeney / 43‑37870 ⇗,7,29
+112,160,1944-07-18,"Target: Rocket Research & Development ComplexType: CROSSBOW (V-Weapons)Location: Peenemünde & Zinnowitz, Germany",Primary,V-Weapons Development Targeted No Aircraft Lost,7,18
+113,161,1944-07-19,"Target: Hydrogen Peroxide PlantType: CROSSBOW (V-Weapons)Location: Höllriegelskreuth District, Pullach, Germany",Primary,384th Leads 1st Division Pilot/Aircraft losses:Bodker / 42‑97449 ⇗Heim / 42‑97178 ⇗Mount / 42‑97237 ⇗,7,19
+114,162,1944-07-20,"Target: Aircraft PlantsType: Aircraft IndustryLocation: Dessau, Germany",Secondary,Airfield Attacked Pilot/Aircraft losses: Grant / 42‑37974 ⇗,7,20
+115,163,1944-07-21,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Schwäbisch Hall, Germany",Secondary,Ludwigshfen Industries Attacked No Aircraft Lost,7,21
+116,164,1944-07-24,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: La Chapelle en Juger & Hébécrevon, France",TOO,Weather Limits Attacks No Aircraft Lost,7,24
+117,165,1944-07-25,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: Montreuil-sur-Lozon, Le Châtel,& La Chapelle en Juger, France",Primary,Support For Imminent Attack No Aircraft Lost,7,25
+118,166,1944-07-28,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Return To Merseburg No Aircraft Lost,7,28
+119,167,1944-07-29,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Merseburg Slammed Again Pilot/Aircraft losses:Sweeney / 43‑37870 ⇗,7,29
 120,168,1944-07-31,"Target: Aero Engine FactoryType: Aircraft IndustryLocation: Munich / München, Germany",PFF Primary,Munich AgainNo Aircraft Lost,7,31
-121,169,1944-08-01,"Target: Railroad BridgeType: TransportationLocation: Chartres, France",Primary,Tactical Support MissionPilot/Aircraft losses:Harris / 42‑97072 ⇗,8,1
-122,170,1944-08-03,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury, Flers, Fiefs, France",Primary,V-Weapons TargetedNo Aircraft Lost,8,3
-123,171,1944-08-04,"Target: Rocket Research & Development ComplexType: CROSSBOW (V-Weapons)Location: Peenemünde, Germany",Primary,V-Weapon Laboratory AttackedNo Aircraft Lost,8,4
+121,169,1944-08-01,"Target: Railroad BridgeType: TransportationLocation: Chartres, France",Primary,Tactical Support Mission Pilot/Aircraft losses: Harris / 42‑97072 ⇗,8,1
+122,170,1944-08-03,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Fleury, Flers, Fiefs, France",Primary,V-Weapons Targeted No Aircraft Lost,8,3
+123,171,1944-08-04,"Target: Rocket Research & Development ComplexType: CROSSBOW (V-Weapons)Location: Peenemünde, Germany",Primary,V-Weapon Laboratory Attacked No Aircraft Lost,8,4
 124,172,1944-08-04,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Crepieul, France",None,Weather Stymies StrikeNo Aircraft Lost,8,4
-125,173,1944-08-05,"Target: Luftwaffe Controlling StationType: German Air Force (Luftwaffe)Location: Langenhagen, Germany",Primary,Fighter Control CenterNo Aircraft Lost,8,5
-126,174,1944-08-07,"Target: Aircraft Fuel DepotType: German Air Force (Luftwaffe)Location: Dugny (Paris), France",Primary,Target Near Le BourgetNo Aircraft Lost,8,7
-127,175,1944-08-08,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: Bretteville-sur-Laize, France",Primary,Tactical Support MissionNo Aircraft Lost,8,8
-128,176,1944-08-09,"Target: Erding Airdrome & AirfieldType: German Air Force (Luftwaffe)Location: Erding, Germany",Last Resort Target,More Bad WeatherNo Aircraft Lost,8,9
-129,177,1944-08-11,"Target: Tactical: Coastal Artillery EmplacementsType: MilitaryLocation: Brest, France",Primary,More Troop SupportNo Aircraft Lost,8,11
-130,178,1944-08-12,"Target: ""Landing Ground""Type: German Air Force (Luftwaffe)Location: La Perthe, France",Primary,Luftwaffe Attacked Near ParisNo Aircraft Lost,8,12
-131,179,1944-08-13,"Target: Tactical: Road NetworkType: TransportationLocation: Beaumont-le-Roger (area), France",Primary,Enemy Transportation RoutesNo Aircraft Lost,8,13
-132,180,1944-08-14,"Target: Echterdingen AirdromeType: German Air Force (Luftwaffe)Location: Stuttgart, Germany",Primary,Airfield BombedNo Aircraft Lost,8,14
-133,181,1944-08-16,"Target: Delitzsch Air Field and Air Equipment DepotType: German Air Force (Luftwaffe)Location: Delitzsch, Germany",Primary,Airfield AttackedNo Aircraft Lost,8,16
-134,182,1944-08-18,"Target: Tactical: BridgeType: TransportationLocation: Vise, Belgium",Primary,Tactical SupportNo Aircraft Lost,8,18
-135,183,1944-08-24,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Oil PressureNo Aircraft Lost,8,24
-136,184,1944-08-25,"Target: Airfield & AirparkType: German Air Force (Luftwaffe)Location: Anklam, Germany",Primary,Luftwaffe AttackedNo Aircraft Lost,8,25
-137,185,1944-08-26,"Target: Buer Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,More Oil PressurePilot/Aircraft losses:Rainey / 42‑97204 ⇗,8,26
-138,186,1944-08-30,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Crepieul, France",Primary,"""NOBALL"" Target AttackedNo Aircraft Lost",8,30
-139,187,1944-09-03,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Chemical Works AttackedNo Aircraft Lost,9,3
-140,188,1944-09-05,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,German Industry AttackedNo Aircraft Lost,9,5
-141,189,1944-09-08,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Target Visible at Last MinuteNo Aircraft Lost,9,8
-142,190,1944-09-09,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Ludwigshafen - Again!Pilot/Aircraft losses:Hartness / 42‑102601 ⇗,9,9
-143,191,1944-09-10,"Target: BMW Motor Component Parts PlantType: IndustryLocation: Sindelfingen, Germany",Primary,384th Leads WingNo Aircraft Lost,9,10
-144,192,1944-09-11,"Target: Oil RefineryType: Oil IndustryLocation: Lützkendorf & Merseburg, Germany",Other,Primary Targets Spared By WeatherPilot/Aircraft losses:Chadwick / 42‑107058 ⇗,9,11
-145,193,1944-09-12,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Brüx, Czechoslovakia",Primary,Synthetic Oil Plant DestroyedPilot/Aircraft losses:Hanlon / 42‑97142 ⇗,9,12
-146,194,1944-09-13,"Target: Leuna Synthetic Oil RefineryType: Oil IndustryLocation: Merseburg, Germany",Primary,The 'Oil Campaign' ContinuesPilot/Aircraft losses:Dodson / 43‑38213 ⇗,9,13
-147,195,1944-09-17,"Target: Tank and Gun Concentrations, TacticalType: MilitaryLocation: Eindhoven & 's‑Hertogenbosch (den Bosch), The Netherlands",Primary,Tactical Support MissionPilot/Aircraft losses:Kelsay / 44‑8011 ⇗,9,17
-148,196,1944-09-19,"Target: Railroad Marshalling YardsType: TransportationLocation: Hamm, Germany",Primary,Mixed ResultsNo Aircraft Lost,9,19
-149,197,1944-09-21,"Target: Railroad Marshalling YardsType: TransportationLocation: Mainz, Germany",Primary,Mainz Railroad Targets BombedNo Aircraft Lost,9,21
-150,198,1944-09-25,"Target: Railroad Marshalling YardsType: TransportationLocation: Frankfurt am Main, Germany",Primary,Primary Target Attacked By PFFPilot/Aircraft losses:Plowman / 42‑107057 ⇗,9,25
-151,199,1944-09-26,"Target: SteelworksType: IndustryLocation: Osnabrück, Germany",Primary,Primary Target AttackedNo Aircraft Lost,9,26
-152,200,1944-09-27,"Target: Railroad Marshalling Yards (PFF Aiming Points)Type: TransportationLocation: Cologne / Köln, Germany",Primary,Marshalling Yards Bombed By PFFNo Aircraft Lost,9,27
-153,201,1944-09-28,"Target: SteelworksType: IndustryLocation: Magdeburg, Germany",Primary,Two Bomb Runs - Primary Target AttackedPilot/Aircraft losses:Brodie / 42‑31222 ⇗Buslee / 43‑37822 ⇗,9,28
-154,202,1944-09-30,"Target: Handorf AirfieldType: German Air Force (Luftwaffe)Location: Münster, Germany",Secondary,Münster BombedNo Aircraft Lost,9,30
-155,203,1944-10-02,"Target: Ford Motor WorksType: IndustryLocation: Cologne / Köln, Germany",Secondary,Cologne BombedNo Aircraft Lost,10,2
-156,204,1944-10-03,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Wesseling, Germany",Primary,Synthetic Oil BombedNo Aircraft Lost,10,3
+125,173,1944-08-05,"Target: Luftwaffe Controlling StationType: German Air Force (Luftwaffe)Location: Langenhagen, Germany",Primary,Fighter Control Center No Aircraft Lost,8,5
+126,174,1944-08-07,"Target: Aircraft Fuel DepotType: German Air Force (Luftwaffe)Location: Dugny (Paris), France",Primary,Target Near Le Bourget No Aircraft Lost,8,7
+127,175,1944-08-08,"Target: Tactical - Enemy Strong PointsType: MilitaryLocation: Bretteville-sur-Laize, France",Primary,Tactical Support Mission No Aircraft Lost,8,8
+128,176,1944-08-09,"Target: Erding Airdrome & AirfieldType: German Air Force (Luftwaffe)Location: Erding, Germany",Last Resort Target,More Bad Weather No Aircraft Lost,8,9
+129,177,1944-08-11,"Target: Tactical: Coastal Artillery EmplacementsType: MilitaryLocation: Brest, France",Primary,More Troop Support No Aircraft Lost,8,11
+130,178,1944-08-12,"Target: ""Landing Ground""Type: German Air Force (Luftwaffe)Location: La Perthe, France",Primary,Luftwaffe Attacked Near Paris No Aircraft Lost,8,12
+131,179,1944-08-13,"Target: Tactical: Road NetworkType: TransportationLocation: Beaumont-le-Roger (area), France",Primary,Enemy Transportation Routes No Aircraft Lost,8,13
+132,180,1944-08-14,"Target: Echterdingen AirdromeType: German Air Force (Luftwaffe)Location: Stuttgart, Germany",Primary,Airfield Bombed No Aircraft Lost,8,14
+133,181,1944-08-16,"Target: Delitzsch Air Field and Air Equipment DepotType: German Air Force (Luftwaffe)Location: Delitzsch, Germany",Primary,Airfield Attacked No Aircraft Lost,8,16
+134,182,1944-08-18,"Target: Tactical: BridgeType: TransportationLocation: Vise, Belgium",Primary,Tactical Support No Aircraft Lost,8,18
+135,183,1944-08-24,"Target: Synthetic Oil & Chemical PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Oil Pressure No Aircraft Lost,8,24
+136,184,1944-08-25,"Target: Airfield & AirparkType: German Air Force (Luftwaffe)Location: Anklam, Germany",Primary,Luftwaffe Attacked No Aircraft Lost,8,25
+137,185,1944-08-26,"Target: Buer Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,More Oil Pressure Pilot/Aircraft losses: Rainey / 42‑97204 ⇗,8,26
+138,186,1944-08-30,"Target: NOBALL (V-1 Launch Site)Type: CROSSBOW (V-Weapons)Location: Crepieul, France",Primary,"""NOBALL"" Target Attacked No Aircraft Lost",8,30
+139,187,1944-09-03,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Chemical Works Attacked No Aircraft Lost,9,3
+140,188,1944-09-05,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,German Industry Attacked No Aircraft Lost,9,5
+141,189,1944-09-08,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Target Visible at Last Minute No Aircraft Lost,9,8
+142,190,1944-09-09,"Target: I. G. Farben Chemical WorksType: IndustryLocation: Ludwigshafen, Germany",Primary,Ludwigshafen - Again! Pilot/Aircraft losses: Hartness / 42‑102601 ⇗,9,9
+143,191,1944-09-10,"Target: BMW Motor Component Parts PlantType: IndustryLocation: Sindelfingen, Germany",Primary,384th Leads Wing No Aircraft Lost,9,10
+144,192,1944-09-11,"Target: Oil RefineryType: Oil IndustryLocation: Lützkendorf & Merseburg, Germany",Other,Primary Targets Spared By Weather Pilot/Aircraft losses:Chadwick / 42‑107058 ⇗,9,11
+145,193,1944-09-12,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Brüx, Czechoslovakia",Primary,Synthetic Oil Plant Destroyed Pilot/Aircraft losses:Hanlon / 42‑97142 ⇗,9,12
+146,194,1944-09-13,"Target: Leuna Synthetic Oil RefineryType: Oil IndustryLocation: Merseburg, Germany",Primary,The 'Oil Campaign' Continues Pilot/Aircraft losses: Dodson / 43‑38213 ⇗,9,13
+147,195,1944-09-17,"Target: Tank and Gun Concentrations, TacticalType: MilitaryLocation: Eindhoven & 's‑Hertogenbosch (den Bosch), The Netherlands",Primary,Tactical Support Mission Pilot/Aircraft losses:Kelsay / 44‑8011 ⇗,9,17
+148,196,1944-09-19,"Target: Railroad Marshalling YardsType: TransportationLocation: Hamm, Germany",Primary,Mixed Results No Aircraft Lost,9,19
+149,197,1944-09-21,"Target: Railroad Marshalling YardsType: TransportationLocation: Mainz, Germany",Primary,Mainz Railroad Targets Bombed No Aircraft Lost,9,21
+150,198,1944-09-25,"Target: Railroad Marshalling YardsType: TransportationLocation: Frankfurt am Main, Germany",Primary,Primary Target Attacked By PFF Pilot/Aircraft losses: Plowman / 42‑107057 ⇗,9,25
+151,199,1944-09-26,"Target: SteelworksType: IndustryLocation: Osnabrück, Germany",Primary,Primary Target Attacked No Aircraft Lost,9,26
+152,200,1944-09-27,"Target: Railroad Marshalling Yards (PFF Aiming Points)Type: TransportationLocation: Cologne / Köln, Germany",Primary,Marshalling Yards Bombed By PFF No Aircraft Lost,9,27
+153,201,1944-09-28,"Target: SteelworksType: IndustryLocation: Magdeburg, Germany",Primary,Two Bomb Runs - Primary Target Attacked Pilot/Aircraft losses: Brodie / 42‑31222 ⇗Buslee / 43‑37822 ⇗,9,28
+154,202,1944-09-30,"Target: Handorf AirfieldType: German Air Force (Luftwaffe)Location: Münster, Germany",Secondary,Münster Bombed No Aircraft Lost,9,30
+155,203,1944-10-02,"Target: Ford Motor WorksType: IndustryLocation: Cologne / Köln, Germany",Secondary,Cologne Bombed No Aircraft Lost,10,2
+156,204,1944-10-03,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Wesseling, Germany",Primary,Synthetic Oil Bombed No Aircraft Lost,10,3
 157,205,1944-10-05,"Type: IndustryLocation: Cologne / Köln, Germany",Secondary,Cologne / Köln BombedPilot/Aircraft losses:Birckhead / 43‑38579 ⇗,10,5
-158,206,1944-10-06,"Target: M/T FactoryType: IndustryLocation: Stettin / Szczecin, Poland",Secondary,Primary Targets Not AttackedNo Aircraft Lost,10,6
-159,207,1944-10-07,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Leipzig, Germany",Primary,Synthetic Oil Production TargetedPilot/Aircraft losses:Mandelbaum / 44‑6294 ⇗,10,7
-160,208,1944-10-09,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,Schweinfurt AttackedNo Aircraft Lost,10,9
-161,209,1944-10-11,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Wesseling, Germany",Primary,Two Targets AttackedPilot/Aircraft losses:Levine / 44‑6149 ⇗Peterson / 42‑97948 ⇗,10,11
-162,210,1944-10-14,"Target: Railroad Marshalling YardsType: TransportationLocation: Saarbrücken, Germany",Primary,Target: TransportationNo Aircraft Lost,10,14
-163,211,1944-10-15,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,Railroad Hubs DamagedNo Aircraft Lost,10,15
-164,212,1944-10-17,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,One Marshalling Yard BombedNo Aircraft Lost,10,17
-165,213,1944-10-18,"Target: Ford Motor WorksType: IndustryLocation: Cologne / Köln, Germany",Secondary,Weather Challenges CrewsNo Aircraft Lost,10,18
-166,214,1944-10-19,"Target: Heinrich Lanz Tank FactoryType: IndustryLocation: Mannheim, Germany",Primary,Tank Factory AttackedNo Aircraft Lost,10,19
-167,215,1944-10-25,"Target: Nordstern Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Secondary,Primary & Secondary AttackedNo Aircraft Lost,10,25
-168,216,1944-10-30,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Secondary,Primary Spared - Secondary BombedNo Aircraft Lost,10,30
-169,217,1944-11-01,"Target: Nordstern Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Two Squadrons Hit PrimaryNo Aircraft Lost,11,1
-170,218,1944-11-02,"Target: Ruhr-Chemie A.G. Synthetic Oil PlantType: Oil IndustryLocation: Sterkrade (Holten), Germany",Primary,Two Targets AttackedNo Aircraft Lost,11,2
-171,219,1944-11-04,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bottrop (Welheim), Germany",Primary,Two Targets AttackedNo Aircraft Lost,11,4
-172,220,1944-11-05,"Target: Railroad Marshalling YardsType: TransportationLocation: Frankfurt am Main, Germany",Primary,Marshalling Yards BombedNo Aircraft Lost,11,5
-173,221,1944-11-06,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bottrop (Welheim), Germany",Primary,Attack on OilNo Aircraft Lost,11,6
-174,222,1944-11-08,"Target: Leuna Synthetic Oil Plant (visual aim point)Type: Oil IndustryLocation: Merseburg, Germany",Secondary,Another Attack on OilPilot/Aircraft losses:Drake / 42‑97282 ⇗,11,8
-175,223,1944-11-09,"Target: Ground InstallationsType: MilitaryLocation: Ouvrages de Sorbey (Metz), France",Primary,Tactical Support MissionNo Aircraft Lost,11,9
-176,224,1944-11-10,"Target: Ostheim Airfield & Butzweilerhof AirfieldType: German Air Force (Luftwaffe)Location: Cologne / Köln, Germany",Primary,Primary Targets BombedNo Aircraft Lost,11,10
-177,225,1944-11-11,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Synthetic Oil Plant BombedNo Aircraft Lost,11,11
-178,226,1944-11-16,"Target: Tactical - Artillery PositionsType: MilitaryLocation: Eschweiler, Germany",Primary,Enemy Troop Positions BombedPilot/Aircraft losses:Springsted / 44‑6512 ⇗,11,16
+158,206,1944-10-06,"Target: M/T FactoryType: IndustryLocation: Stettin / Szczecin, Poland",Secondary,Primary Targets Not Attacked No Aircraft Lost,10,6
+159,207,1944-10-07,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Leipzig, Germany",Primary,Synthetic Oil Production Targeted Pilot/Aircraft losses:Mandelbaum / 44‑6294 ⇗,10,7
+160,208,1944-10-09,"Target: Ball-Bearing PlantType: Bearings IndustryLocation: Schweinfurt, Germany",Primary,Schweinfurt Attacked No Aircraft Lost,10,9
+161,209,1944-10-11,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Wesseling, Germany",Primary,Two Targets Attacked Pilot/Aircraft losses: Levine / 44‑6149 ⇗Peterson / 42‑97948 ⇗,10,11
+162,210,1944-10-14,"Target: Railroad Marshalling YardsType: TransportationLocation: Saarbrücken, Germany",Primary,Target: Transportation No Aircraft Lost,10,14
+163,211,1944-10-15,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,Railroad Hubs Damaged No Aircraft Lost,10,15
+164,212,1944-10-17,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,One Marshalling Yard Bombed No Aircraft Lost,10,17
+165,213,1944-10-18,"Target: Ford Motor WorksType: IndustryLocation: Cologne / Köln, Germany",Secondary,Weather Challenges Crews No Aircraft Lost,10,18
+166,214,1944-10-19,"Target: Heinrich Lanz Tank FactoryType: IndustryLocation: Mannheim, Germany",Primary,Tank Factory Attacked No Aircraft Lost,10,19
+167,215,1944-10-25,"Target: Nordstern Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Secondary,Primary & Secondary Attacked No Aircraft Lost,10,25
+168,216,1944-10-30,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Secondary,Primary Spared - Secondary Bombed No Aircraft Lost,10,30
+169,217,1944-11-01,"Target: Nordstern Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Two Squadrons Hit Primary No Aircraft Lost,11,1
+170,218,1944-11-02,"Target: Ruhr-Chemie A.G. Synthetic Oil PlantType: Oil IndustryLocation: Sterkrade (Holten), Germany",Primary,Two Targets Attacked No Aircraft Lost,11,2
+171,219,1944-11-04,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bottrop (Welheim), Germany",Primary,Two Targets Attacked No Aircraft Lost,11,4
+172,220,1944-11-05,"Target: Railroad Marshalling YardsType: TransportationLocation: Frankfurt am Main, Germany",Primary,Marshalling Yards Bombed No Aircraft Lost,11,5
+173,221,1944-11-06,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bottrop (Welheim), Germany",Primary,Attack on Oil No Aircraft Lost,11,6
+174,222,1944-11-08,"Target: Leuna Synthetic Oil Plant (visual aim point)Type: Oil IndustryLocation: Merseburg, Germany",Secondary,Another Attack on Oil Pilot/Aircraft losses:Drake / 42‑97282 ⇗,11,8
+175,223,1944-11-09,"Target: Ground InstallationsType: MilitaryLocation: Ouvrages de Sorbey (Metz), France",Primary,Tactical Support Mission No Aircraft Lost,11,9
+176,224,1944-11-10,"Target: Ostheim Airfield & Butzweilerhof AirfieldType: German Air Force (Luftwaffe)Location: Cologne / Köln, Germany",Primary,Primary Targets Bombed No Aircraft Lost,11,10
+177,225,1944-11-11,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Synthetic Oil Plant Bombed No Aircraft Lost,11,11
+178,226,1944-11-16,"Target: Tactical - Artillery PositionsType: MilitaryLocation: Eschweiler, Germany",Primary,Enemy Troop Positions Bombed Pilot/Aircraft losses: Springsted / 44‑6512 ⇗,11,16
 179,227,1944-11-20,"Target: Buer Synthetic Oil PlantType: Oil IndustryLocation: Gelsenkirchen, Germany",Secondary,Marshalling Yards BombedNo Aircraft Lost,11,20
-180,228,1944-11-23,"Target: Nordstern Coking Plant at Gelsenkirchener Bergwerks-A.G.Type: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Primary Attacked Using Gee-HNo Aircraft Lost,11,23
-181,229,1944-11-25,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Lützkendorf, Germany",Secondary,Bad Day for German OilNo Aircraft Lost,11,25
-182,230,1944-11-26,"Target: Railroad ViaductType: TransportationLocation: Altenbeken, Germany",Primary,Bombing by Gee-HNo Aircraft Lost,11,26
-183,231,1944-11-27,"Target: Railroad Marshalling YardsType: TransportationLocation: Offenburg, Germany",Primary,Weather CooperatesNo Aircraft Lost,11,27
-184,232,1944-11-29,"Target: Oil RefineryType: Oil IndustryLocation: Misburg, Germany",Secondary,Refinery BombedNo Aircraft Lost,11,29
-185,233,1944-11-30,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Zeitz, Germany",Other,Traffic and WeatherPilot/Aircraft losses:Champ / 44‑8409 ⇗Evans / 43‑37713 ⇗Fleshman / 44‑6141 ⇗Gabel / 43‑38542 ⇗,11,30
-186,234,1944-12-02,"Target: Railroad Marshalling YardsType: TransportationLocation: Oberlahnstein, Germany",Primary,Transportation TargetedNo Aircraft Lost,12,2
-187,235,1944-12-04,"Target: Railroad Marshalling YardsType: TransportationLocation: Soest, Germany",Primary,Transportation AttackedNo Aircraft Lost,12,4
-188,236,1944-12-06,"Target: Leuna Synthetic Oil PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,More Pressure On OilNo Aircraft Lost,12,6
-189,237,1944-12-09,"Target: Airfield and Daimler FactoryType: Aircraft IndustryLocation: Böblingen (Stuttgart area), Germany",Primary,Daimler Factory AttackedNo Aircraft Lost,12,9
-190,238,1944-12-11,"Target: Road & Rail BridgeType: TransportationLocation: Mannheim, Germany",Primary,Rhine Bridge(s) TargetedNo Aircraft Lost,12,11
-191,239,1944-12-12,"Target: Leuna Synthetic Oil PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Continued Pressure on OilPilot/Aircraft losses:Hale / 42‑102933 ⇗,12,12
-192,240,1944-12-18,"Target: Road JunctionType: TransportationLocation: Gemünd, Germany",Secondary,Weather Challenges The PlanNo Aircraft Lost,12,18
-193,241,1944-12-19,"Target: Railway JunctionType: TransportationLocation: Glaadt, Germany",Primary,Weather Reduces ForceNo Aircraft Lost,12,19
-194,242,1944-12-23,"Target: Railroad Marshalling YardsType: TransportationLocation: Ehrang, Germany",Primary,Primary Target AttackedNo Aircraft Lost,12,23
-195,243,1944-12-24,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Kirch G&oumlns, Germany",Primary,Various Targets AttackedNo Aircraft Lost,12,24
-196,244,1944-12-27,"Target: Bridge (Tactical)Type: TransportationLocation: Altenahr, Germany",Primary,Tactical Support For TroopsPilot/Aircraft losses:Nelson / 42‑107083 ⇗,12,27
-197,245,1944-12-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Brühl, Germany",Primary,Group Bombs RailroadNo Aircraft Lost,12,28
-198,246,1944-12-30,"Target: Railroad Marshalling YardsType: TransportationLocation: Limburg, Germany",Secondary,Historic Limburg SparedNo Aircraft Lost,12,30
-199,247,1944-12-31,"Target: Railroad Marshalling YardsType: TransportationLocation: Neuss, Germany",Primary,Railroad Target AttackedNo Aircraft Lost,12,31
+180,228,1944-11-23,"Target: Nordstern Coking Plant at Gelsenkirchener Bergwerks-A.G.Type: Oil IndustryLocation: Gelsenkirchen, Germany",Primary,Primary Attacked Using Gee-H No Aircraft Lost,11,23
+181,229,1944-11-25,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Lützkendorf, Germany",Secondary,Bad Day for German Oil No Aircraft Lost,11,25
+182,230,1944-11-26,"Target: Railroad ViaductType: TransportationLocation: Altenbeken, Germany",Primary,Bombing by Gee-H No Aircraft Lost,11,26
+183,231,1944-11-27,"Target: Railroad Marshalling YardsType: TransportationLocation: Offenburg, Germany",Primary,Weather Cooperates No Aircraft Lost,11,27
+184,232,1944-11-29,"Target: Oil RefineryType: Oil IndustryLocation: Misburg, Germany",Secondary,Refinery Bombed No Aircraft Lost,11,29
+185,233,1944-11-30,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Zeitz, Germany",Other,Traffic and Weather Pilot/Aircraft losses: Champ / 44‑8409 ⇗Evans / 43‑37713 ⇗Fleshman / 44‑6141 ⇗Gabel / 43‑38542 ⇗,11,30
+186,234,1944-12-02,"Target: Railroad Marshalling YardsType: TransportationLocation: Oberlahnstein, Germany",Primary,Transportation Targeted No Aircraft Lost,12,2
+187,235,1944-12-04,"Target: Railroad Marshalling YardsType: TransportationLocation: Soest, Germany",Primary,Transportation Attacked No Aircraft Lost,12,4
+188,236,1944-12-06,"Target: Leuna Synthetic Oil PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,More Pressure On Oil No Aircraft Lost,12,6
+189,237,1944-12-09,"Target: Airfield and Daimler FactoryType: Aircraft IndustryLocation: Böblingen (Stuttgart area), Germany",Primary,Daimler Factory Attacked No Aircraft Lost,12,9
+190,238,1944-12-11,"Target: Road & Rail BridgeType: TransportationLocation: Mannheim, Germany",Primary,Rhine Bridge(s) Targeted No Aircraft Lost,12,11
+191,239,1944-12-12,"Target: Leuna Synthetic Oil PlantType: Oil IndustryLocation: Merseburg, Germany",Primary,Continued Pressure on Oil Pilot/Aircraft losses: Hale / 42‑102933 ⇗,12,12
+192,240,1944-12-18,"Target: Road JunctionType: TransportationLocation: Gemünd, Germany",Secondary,Weather Challenges The Plan No Aircraft Lost,12,18
+193,241,1944-12-19,"Target: Railway JunctionType: TransportationLocation: Glaadt, Germany",Primary,Weather Reduces Force No Aircraft Lost,12,19
+194,242,1944-12-23,"Target: Railroad Marshalling YardsType: TransportationLocation: Ehrang, Germany",Primary,Primary Target Attacked No Aircraft Lost,12,23
+195,243,1944-12-24,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Kirch G&oumlns, Germany",Primary,Various Targets Attacked No Aircraft Lost,12,24
+196,244,1944-12-27,"Target: Bridge (Tactical)Type: TransportationLocation: Altenahr, Germany",Primary,Tactical Support For Troops Pilot/Aircraft losses: Nelson / 42‑107083 ⇗,12,27
+197,245,1944-12-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Brühl, Germany",Primary,Group Bombs Railroad No Aircraft Lost,12,28
+198,246,1944-12-30,"Target: Railroad Marshalling YardsType: TransportationLocation: Limburg, Germany",Secondary,Historic Limburg Spared No Aircraft Lost,12,30
+199,247,1944-12-31,"Target: Railroad Marshalling YardsType: TransportationLocation: Neuss, Germany",Primary,Railroad Target Attacked No Aircraft Lost,12,31

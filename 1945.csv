@@ -1,71 +1,72 @@
-﻿,Number,Date,Primary Target,Target Attacked,Comments,Month,Day
-0,248,1945-01-01,"Target: Oil Storage DepotType: Oil IndustryLocation: Derben, Germany",Secondary,Two Targets Attacked No Aircraft Lost,1,1
-1,249,1945-01-02,"Target: Railroad Marshalling YardsType: TransportationLocation: Gerolstein, Germany",Primary,"<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a>. Transportation Targeted<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2018/06/24/20180624124849-e479e69f-me.jpg'>.<br> No Aircraft Lost",1,2
-2,250,1945-01-03,"Target: Enemy Strong Point & Transportation HubType: MilitaryLocation: St Vith, Belgium",Primary,"<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a>. Tactical Support. As the city of St Vith was a German strong point, the assigned Gee-H aimpoint was the center of the city.<br><img src='https://www.ww2classroom.org/sites/default/files/styles/780w/public/maps/wie045.jpg'><br>  No Aircraft Lost",1,3
-3,251,1945-01-05,"Target: Landing GroundType: German Air Force (Luftwaffe)Location: Neiderbreisig, Germany",Primary,"Airfield Attacked No Aircraft Lost<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2019/11/02/20191102170136-1fea68af-me.jpg'>",1,5
-4,252,1945-01-07,"Target: Enemy Strong PointType: MilitaryLocation: Blankenheim, Germany",Primary,"<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a> - Support For Ground Troops No Aircraft Lost",1,7
-5,253,1945-01-08,"Target: RailroadType: TransportationLocation: Kyllburg, Germany",Primary,Railroad Attacked Pilot/Aircraft losses: DeFrancesco / 42‑98000 ⇗,1,8
-6,254,1945-01-10,"Target: Railroad Marshalling YardsType: TransportationLocation: Bonn, Germany",Secondary,Two Marshalling Yards Bombed Pilot/Aircraft losses: Hicks / 44‑8216 ⇗Whitesides / 42‑97263 ⇗,1,10
-7,255,1945-01-15,"Target: Neuburg AirfieldType: German Air Force (Luftwaffe)Location: Neuburg an der Donau, Germany",Secondary,Luftwaffe Airfield Attacked No Aircraft Lost,1,15
-8,256,1945-01-17,"Target: Railroad ViaductType: TransportationLocation: Bielefeld, Germany",Secondary,Secondary Target Attacked No Aircraft Lost,1,17
-9,257,1945-01-20,"Target: Rail and Road BridgesType: TransportationLocation: Mannheim, Germany",PFF Primary,"Transportation Bombed, on return a heavy snowstorm forced nearly all aircraft to land elsewhere. 2 planes crash landed in England on return due to weather and engine failure.<br>Pilot/Aircraft losses: Cook, Fleshman<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2016/03/26/20160326075848-308078ad-me.png'>",1,20
-10,258,1945-01-21,"Target: Marshalling YardType: TransportationLocation: Aschaffenburg, Germany",PFF Secondary,Radar Bombing No Aircraft Lost,1,21
-11,259,1945-01-22,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Sterkrade, Germany",Primary,"Van Popering's aircraft was hit by flak and crashed in the Netherlands. The pilot and one other were killed, the rest of the crew were captured except 2 members who managed to evade until met by advancing allied forces in April.<br> Pilot/Aircraft losses: Birder / 43‑37703, Van Popering / 43‑38850 ",1,22
-12,260,1945-01-23,"Target: Railroad Marshalling YardsType: TransportationLocation: Neuss, Germany",Primary,Challenging Weather No Aircraft Lost,1,23
-13,261,1945-01-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Primary,Transportation Targeted Pilot/Aircraft losses:Jackson / 44‑6105 ⇗,1,28
-14,262,1945-01-29,"Target: Railroad Marshalling YardsType: TransportationLocation: Siegen, Germany",Primary,Transportation Targeted No Aircraft Lost,1,29
-15,263,1945-02-01,"Target: Railroad Marshalling YardsType: TransportationLocation: Mannheim, Germany",PFF Primary,Secondary Target Attacked No Aircraft Lost,2,1
-16,264,1945-02-03,"Target: Tempelhof Railroad Marshalling YardsType: TransportationLocation: Berlin, Germany",Primary,Transportation Targeted Pilot/Aircraft losses:Long / 42‑102501 ⇗Molder / 42‑97960 ⇗,2,3
-17,265,1945-02-09,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Lützkendorf, Germany",Primary,Two Targets Hit No Aircraft Lost,2,9
-18,266,1945-02-14,"Target: Railroad Marshalling YardsType: TransportationLocation: Dresden, Germany",Primary,Bombs Miss Objective No Aircraft Lost,2,14
-19,267,1945-02-15,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bohlen, Germany",PFF Primary,Weather Reduces Force No Aircraft Lost,2,15
-20,346,1945-02-16,"Target: Coking PlantType: Oil IndustryLocation: Dortmund, Germany",Primary,Strategic Operations Continue No Aircraft Lost,2,16
-21,268,1945-02-19,"Target: Coking PlantType: IndustryLocation: Gelsenkirchen, Germany",Secondary,Transportation Attacked No Aircraft Lost,2,19
-22,269,1945-02-20,"Target: Main Railroad StationType: TransportationLocation: Nuremberg / Nürnberg, Germany",PFF Secondary,Weather Challenges No Aircraft Lost,2,20
-23,270,1945-02-21,"Target: Tank FactoryType: IndustryLocation: Nuremberg / Nürnberg, Germany",PFF Secondary,Back to Nuremberg No Aircraft Lost,2,21
-24,271,1945-02-22,"Target: Railroad Marshalling YardsType: TransportationLocation: Ülzen, Germany",Primary,Target SmashedNo Aircraft Lost,2,22
-25,272,1945-02-23,"Target: Railroad Marshalling YardsType: TransportationLocation: Plauen, Germany",Primary,Transportation Targeted No Aircraft Lost,2,23
-26,273,1945-02-24,"Target: Submarine Construction ShipyardType: ShipyardsLocation: Hamburg, Germany",PFF Secondary,Secondary Target Attacked No Aircraft Lost,2,24
-27,274,1945-02-25,"Target: Tank & Submarine Engine FactoryType: IndustryLocation: Friedrichshafen, Germany",Primary,Squadrons Attack Separately No Aircraft Lost,2,25
-28,275,1945-02-26,"Target: Schlesicher Railroad Station (Bahnhof)Type: TransportationLocation: Berlin, Germany",Primary,Berlin Bahnhof Bombed No Aircraft Lost,2,26
-29,276,1945-02-27,"Target: Railroad Marshalling YardsType: TransportationLocation: Wahren (Leipzig area), Germany",PFF Secondary,Leipzig Targeted No Aircraft Lost,2,27
-30,277,1945-02-28,"Target: Railroad Marshalling YardsType: TransportationLocation: Hagen, Germany",PFF Primary,Hagen Railroad Targeted No Aircraft Lost,2,28
-31,278,1945-03-01,"Target: Railroad Marshalling YardsType: TransportationLocation: Bruchsal, Germany",Primary,Transportation Attacked No Aircraft Lost,3,1
-32,279,1945-03-02,"Target: Low Temperature Carbonization Plant and Refinery of Deutsche Petroleum A.G.Type: Oil IndustryLocation: Rositz, Germany",Primary,Pressure on Oil No Aircraft Lost,3,2
-33,280,1945-03-03,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Misburg, Germany",PFF Secondary,Hannover Railyard Bombed No Aircraft Lost,3,3
-34,281,1945-03-04,"Target: Ordnance DepotType: MilitaryLocation: Ulm, Germany",Primary,Bombing Through Clouds No Aircraft Lost,3,4
-35,282,1945-03-07,"Target: Oil RefineryType: Oil IndustryLocation: Bochum, Germany",Primary,Two Targets Attacked No Aircraft Lost,3,7
-36,283,1945-03-08,"Target: Oil Refinery - 'Benzol Plant'Type: Oil IndustryLocation: Essen, Germany",Primary,More Oil Pressure No Aircraft Lost,3,8
-37,284,1945-03-09,"Target: Henschel Tank and Locomotive WorksType: IndustryLocation: Kassel, Germany",Primary,Industry Smashed No Aircraft Lost,3,9
-38,285,1945-03-10,"Target: Railroad Marshalling YardsType: TransportationLocation: Schwerte, Germany",Primary,Transportation Attacked No Aircraft Lost,3,10
-39,286,1945-03-11,"Target: Vacuum Oil PlantType: Oil IndustryLocation: Bremen, Germany",PFF Secondary,Bremen Bombed No Aircraft Lost,3,11
-40,287,1945-03-12,"Target: Railway CenterType: TransportationLocation: Betzdorf, Germany",Secondary,Transportation System Targeted No Aircraft Lost,3,12
-41,288,1945-03-14,"Target: Railroad Bridge, Weser RiverType: TransportationLocation: Bad Oeynhausen, Germany",Primary,Railroad Bridge Attacked No Aircraft Lost,3,14
-42,289,1945-03-15,"Target: Army HQType: MilitaryLocation: Zossen, Germany",Primary,Army GHQ Attacked No Aircraft Lost,3,15
-43,290,1945-03-17,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bohlen (Leipzig), Germany",#6,Weather and Equipment Failures Pilot/Aircraft losses: Schauer / 42‑107148 ⇗,3,17
-44,291,1945-03-18,"Target: Schlesischer Railway StationType: TransportationLocation: Berlin, Germany",Primary,384th Leads Division No Aircraft Lost,3,18
-45,292,1945-03-19,"Target: Braunkohle-Benzin Synthetic Oil PlantType: Oil IndustryLocation: Bohlen, Germany",Tertiary,#3 Target Attacked Pilot/Aircraft losses: Griffin / 43‑39035 ⇗Kramer / 44‑8008 ⇗,3,19
-46,293,1945-03-20,"Target: Deutsche Werft Submarine ShipyardType: Submarine FacilityLocation: Hamburg, Germany",Secondary,Hamburg Hammered Pilot/Aircraft losses: Hicks / 42‑97271 ⇗,3,20
-47,294,1945-03-22,"Target: German Hutted Camps (Barracks) at 51°36'N,7°06'EType: MilitaryLocation: Westerholt, Germany",Primary,Military Camp Attacked No Aircraft Lost,3,22
-48,295,1945-03-23,"Target: Railroad Marshalling YardsType: TransportationLocation: Gladbeck, Germany",Primary,Pinpoint Accuracy Pilot/Aircraft losses: Connor / 43‑39053 ⇗,3,23
-49,296,1945-03-24,"Target: Vechta AirfieldType: German Air Force (Luftwaffe)Location: Vechta, Germany",Primary,Weather Cooperates No Aircraft Lost,3,24
-50,297,1945-03-24,"Target: Twente Enschede AirfieldType: German Air Force (Luftwaffe)Location: Twente, Enschede, The Netherlands",Primary,Second Mission of the Day No Aircraft Lost,3,24
-51,298,1945-03-26,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Zeitz, Germany",#4,"Weather, Equipment, TurbulencePilot/Aircraft losses:Jordan / 44‑6109 ⇗",3,26
-52,299,1945-03-28,"Target: Berlin/Spandau Motor Transport WorksType: IndustryLocation: Spandau (Berlin), Germany",Secondary,Industrial Plant Attacked No Aircraft Lost,3,28
-53,300,1945-03-30,"Target: Deutsche Schiff- u. Maschinenbau A.G. (DESCHIMAG) Submarine and Warship Yard Machine ShopType: Submarine FacilityLocation: Bremen, Germany",Primary,Bremen Shipyard Attacked No Aircraft Lost,3,30
-54,301,1945-03-31,"Target: Railroad Marshalling YardsType: TransportationLocation: Lützkendorf, Germany",Tertiary,Division Bombs Tertiary Target No Aircraft Lost,3,31
-55,302,1945-04-03,"Target: Underground Oil Storage DepotType: Oil IndustryLocation: Kiel, Germany",Secondary,Weather Forces Change No Aircraft Lost,4,3
-56,303,1945-04-04,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Fassberg, Germany",Primary,Some Bombs On Target No Aircraft Lost,4,4
-57,304,1945-04-05,"Target: Ordnance DepotType: MilitaryLocation: Ingolstadt, Germany",Primary,Ordnance Depot Destroyed Pilot/Aircraft losses: Cathey / 43‑37843 ⇗,4,5
-58,305,1945-04-06,"Target: Railroad Marshalling Yards (Visual Primary)Type: TransportationLocation: Leipzig, Germany",Secondary,Leipzig Railyard Bombed Pilot/Aircraft losses: Gray / 43‑39164 ⇗Hastings / 43‑38801 ⇗MacKellar / 44‑6923 ⇗,4,6
-59,306,1945-04-07,"Target: Underground Oil Storage PlantType: MilitaryLocation: Hitzacker, Germany",Primary,Bombardiers' Skills Pay Off No Aircraft Lost,4,7
-60,307,1945-04-09,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Fürstenfeldbruck, Germany",Primary,Airfield Plastered No Aircraft Lost,4,9
-61,308,1945-04-10,"Target: Ordnance Depot Workshop AreaType: MilitaryLocation: Oranienburg, Germany",Primary,SS Depot Attacked No Aircraft Lost,4,10
-62,309,1945-04-11,"Target: Underground Oil Storage DepotType: Oil IndustryLocation: Freiham, Germany",Primary,Underground Oil Storage Attacked No Aircraft Lost,4,11
-63,310,1945-04-14,"Target: Gun BatteryType: MilitaryLocation: Royan (Bordeaux), France",Primary,Primary Target Clobbered No Aircraft Lost,4,14
-64,311,1945-04-15,"Target: Flak guns at Pointe de SuzacType: MilitaryLocation: Royan, France",Primary,Flak Guns Bombed No Aircraft Lost,4,15
-65,312,1945-04-16,"Target: Railroad Marshalling YardsType: TransportationLocation: Regensburg, Germany",Primary,Attack On Transportation No Aircraft Lost,4,16
-66,313,1945-04-17,"Target: Railroad Marshalling YardsType: TransportationLocation: Dresden, Germany",Primary,Transportation Attacked Again No Aircraft Lost,4,17
-67,314,1945-04-19,"Target: Railroad Station & Marshalling YardsType: TransportationLocation: Elsterwerda, Germany",Primary,Critical Railway Junction No Aircraft Lost,4,19
-68,315,1945-04-20,"Target: Railroad Marshalling YardsType: TransportationLocation: Seddin, Germany",Primary,Clear Weather: Good Bombing No Aircraft Lost,4,20
-69,316,1945-04-25,"Target: Skoda Armament WorksType: IndustryLocation: Pilsen / Plzeň, Czechoslovakia",Primary,THE LAST ONE! Pilot/Aircraft losses: Lovett / 43‑38501 ⇗,4,25
+Month,Day,﻿,Number,Date,Target Attacked,Primary Target,Comments
+1,1,0,248,1945-01-01,Secondary,"Target: Oil Storage DepotType: Oil IndustryLocation: Derben, Germany",Two Targets Attacked No Aircraft Lost
+1,2,1,249,1945-01-02,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Gerolstein, Germany",<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a>. Transportation Targeted<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2018/06/24/20180624124849-e479e69f-me.jpg'>.<br> No Aircraft Lost
+1,3,2,250,1945-01-03,Primary,"Target: Enemy Strong Point & Transportation HubType: MilitaryLocation: St Vith, Belgium","<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a>. Tactical Support. As the city of St Vith was a German strong point, the assigned Gee-H aimpoint was the center of the city.<br><img src='https://www.ww2classroom.org/sites/default/files/styles/780w/public/maps/wie045.jpg'><br>  No Aircraft Lost"
+1,5,3,251,1945-01-05,Primary,"Target: Landing GroundType: German Air Force (Luftwaffe)Location: Neiderbreisig, Germany",Airfield Attacked No Aircraft Lost<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2019/11/02/20191102170136-1fea68af-me.jpg'>
+1,7,4,252,1945-01-07,Primary,"Target: Enemy Strong PointType: MilitaryLocation: Blankenheim, Germany",<a href='https://www.iwm.org.uk/history/what-you-need-to-know-about-the-battle-of-the-bulge'>Battle of the Bulge</a> - Support For Ground Troops No Aircraft Lost
+1,8,5,253,1945-01-08,Primary,"Target: RailroadType: TransportationLocation: Kyllburg, Germany",Railroad Attacked Pilot/Aircraft losses: DeFrancesco / 42‑98000 ⇗
+1,10,6,254,1945-01-10,Secondary,"Target: Railroad Marshalling YardsType: TransportationLocation: Bonn, Germany",Two Marshalling Yards Bombed Pilot/Aircraft losses: Hicks / 44‑8216 ⇗Whitesides / 42‑97263 ⇗
+1,15,7,255,1945-01-15,Secondary,"Target: Neuburg AirfieldType: German Air Force (Luftwaffe)Location: Neuburg an der Donau, Germany",Luftwaffe Airfield Attacked No Aircraft Lost
+1,17,8,256,1945-01-17,Secondary,"Target: Railroad ViaductType: TransportationLocation: Bielefeld, Germany",Secondary Target Attacked No Aircraft Lost
+1,20,9,257,1945-01-20,PFF Primary,"Target: Rail and Road BridgesType: TransportationLocation: Mannheim, Germany","Transportation Bombed, on return a heavy snowstorm forced nearly all aircraft to land elsewhere. 2 planes crash landed in England on return due to weather and engine failure.<br>Pilot/Aircraft losses: Cook, Fleshman<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2016/03/26/20160326075848-308078ad-me.png'>"
+1,21,10,258,1945-01-21,PFF Secondary,"Target: Marshalling YardType: TransportationLocation: Aschaffenburg, Germany",Radar Bombing No Aircraft Lost
+1,22,11,259,1945-01-22,Primary,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Sterkrade, Germany","Van Popering's aircraft was hit by flak and crashed in the Netherlands. The pilot and one other were killed, the rest of the crew were captured except 2 members who managed to evade until met by advancing allied forces in April.<br> Pilot/Aircraft losses: Birder / 43‑37703, Van Popering / 43‑38850 "
+1,23,12,260,1945-01-23,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Neuss, Germany",Challenging Weather No Aircraft Lost
+1,28,13,261,1945-01-28,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Cologne / Köln, Germany",Transportation Targeted Pilot/Aircraft losses:Jackson / 44‑6105 ⇗
+1,29,14,262,1945-01-29,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Siegen, Germany",Transportation Targeted No Aircraft Lost
+2,1,15,263,1945-02-01,PFF Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Mannheim, Germany",Secondary Target Attacked No Aircraft Lost
+2,3,16,264,1945-02-03,Primary,"Target: Tempelhof Railroad Marshalling YardsType: TransportationLocation: Berlin, Germany","Transportation Targeted Pilot<br> 2 aircraft losses: Long / 42‑102501 Molder / 42‑97960<br>Pilot Robert Long's plane - The Challenger (picture below) - was damaged by flak, dropped behind formation and appeared heading for Russian lines but ditched in the North Sea. 6 of the crew were rescued. Long received a posthumous award of the silver star for his selfless efforts to save his crew after ditching.<br><img src='https://photos.384thbombgroup.com/_data/i/upload/2011/09/22/20110922112134-26276b78-me.jpg'>
+"
+2,9,17,265,1945-02-09,Primary,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Lützkendorf, Germany",Two Targets Hit No Aircraft Lost
+2,14,18,266,1945-02-14,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Dresden, Germany",Bombs Miss Objective No Aircraft Lost
+2,15,19,267,1945-02-15,PFF Primary,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bohlen, Germany",Weather Reduces Force No Aircraft Lost
+2,16,20,346,1945-02-16,Primary,"Target: Coking PlantType: Oil IndustryLocation: Dortmund, Germany",Strategic Operations Continue No Aircraft Lost
+2,19,21,268,1945-02-19,Secondary,"Target: Coking PlantType: IndustryLocation: Gelsenkirchen, Germany",Transportation Attacked No Aircraft Lost
+2,20,22,269,1945-02-20,PFF Secondary,"Target: Main Railroad StationType: TransportationLocation: Nuremberg / Nürnberg, Germany",Weather Challenges No Aircraft Lost
+2,21,23,270,1945-02-21,PFF Secondary,"Target: Tank FactoryType: IndustryLocation: Nuremberg / Nürnberg, Germany",Back to Nuremberg No Aircraft Lost
+2,22,24,271,1945-02-22,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Ülzen, Germany",Target SmashedNo Aircraft Lost
+2,23,25,272,1945-02-23,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Plauen, Germany",Transportation Targeted No Aircraft Lost
+2,24,26,273,1945-02-24,PFF Secondary,"Target: Submarine Construction ShipyardType: ShipyardsLocation: Hamburg, Germany",Secondary Target Attacked No Aircraft Lost
+2,25,27,274,1945-02-25,Primary,"Target: Tank & Submarine Engine FactoryType: IndustryLocation: Friedrichshafen, Germany",Squadrons Attack Separately No Aircraft Lost
+2,26,28,275,1945-02-26,Primary,"Target: Schlesicher Railroad Station (Bahnhof)Type: TransportationLocation: Berlin, Germany",Berlin Bahnhof Bombed No Aircraft Lost
+2,27,29,276,1945-02-27,PFF Secondary,"Target: Railroad Marshalling YardsType: TransportationLocation: Wahren (Leipzig area), Germany",Leipzig Targeted No Aircraft Lost
+2,28,30,277,1945-02-28,PFF Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Hagen, Germany",Hagen Railroad Targeted No Aircraft Lost
+3,1,31,278,1945-03-01,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Bruchsal, Germany",Transportation Attacked No Aircraft Lost
+3,2,32,279,1945-03-02,Primary,"Target: Low Temperature Carbonization Plant and Refinery of Deutsche Petroleum A.G.Type: Oil IndustryLocation: Rositz, Germany",Pressure on Oil No Aircraft Lost
+3,3,33,280,1945-03-03,PFF Secondary,"Target: Synthetic Oil RefineryType: Oil IndustryLocation: Misburg, Germany",Hannover Railyard Bombed No Aircraft Lost
+3,4,34,281,1945-03-04,Primary,"Target: Ordnance DepotType: MilitaryLocation: Ulm, Germany",Bombing Through Clouds No Aircraft Lost
+3,7,35,282,1945-03-07,Primary,"Target: Oil RefineryType: Oil IndustryLocation: Bochum, Germany",Two Targets Attacked No Aircraft Lost
+3,8,36,283,1945-03-08,Primary,"Target: Oil Refinery - 'Benzol Plant'Type: Oil IndustryLocation: Essen, Germany",More Oil Pressure No Aircraft Lost
+3,9,37,284,1945-03-09,Primary,"Target: Henschel Tank and Locomotive WorksType: IndustryLocation: Kassel, Germany",Industry Smashed No Aircraft Lost
+3,10,38,285,1945-03-10,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Schwerte, Germany",Transportation Attacked No Aircraft Lost
+3,11,39,286,1945-03-11,PFF Secondary,"Target: Vacuum Oil PlantType: Oil IndustryLocation: Bremen, Germany",Bremen Bombed No Aircraft Lost
+3,12,40,287,1945-03-12,Secondary,"Target: Railway CenterType: TransportationLocation: Betzdorf, Germany",Transportation System Targeted No Aircraft Lost
+3,14,41,288,1945-03-14,Primary,"Target: Railroad Bridge, Weser RiverType: TransportationLocation: Bad Oeynhausen, Germany",Railroad Bridge Attacked No Aircraft Lost
+3,15,42,289,1945-03-15,Primary,"Target: Army HQType: MilitaryLocation: Zossen, Germany",Army GHQ Attacked No Aircraft Lost
+3,17,43,290,1945-03-17,#6,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Bohlen (Leipzig), Germany",Weather and Equipment Failures Pilot/Aircraft losses: Schauer / 42‑107148 ⇗
+3,18,44,291,1945-03-18,Primary,"Target: Schlesischer Railway StationType: TransportationLocation: Berlin, Germany",384th Leads Division No Aircraft Lost
+3,19,45,292,1945-03-19,Tertiary,"Target: Braunkohle-Benzin Synthetic Oil PlantType: Oil IndustryLocation: Bohlen, Germany",#3 Target Attacked Pilot/Aircraft losses: Griffin / 43‑39035 ⇗Kramer / 44‑8008 ⇗
+3,20,46,293,1945-03-20,Secondary,"Target: Deutsche Werft Submarine ShipyardType: Submarine FacilityLocation: Hamburg, Germany",Hamburg Hammered Pilot/Aircraft losses: Hicks / 42‑97271 ⇗
+3,22,47,294,1945-03-22,Primary,"Target: German Hutted Camps (Barracks) at 51°36'N,7°06'EType: MilitaryLocation: Westerholt, Germany",Military Camp Attacked No Aircraft Lost
+3,23,48,295,1945-03-23,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Gladbeck, Germany",Pinpoint Accuracy Pilot/Aircraft losses: Connor / 43‑39053 ⇗
+3,24,49,296,1945-03-24,Primary,"Target: Vechta AirfieldType: German Air Force (Luftwaffe)Location: Vechta, Germany",Weather Cooperates No Aircraft Lost
+3,24,50,297,1945-03-24,Primary,"Target: Twente Enschede AirfieldType: German Air Force (Luftwaffe)Location: Twente, Enschede, The Netherlands",Second Mission of the Day No Aircraft Lost
+3,26,51,298,1945-03-26,#4,"Target: Synthetic Oil PlantType: Oil IndustryLocation: Zeitz, Germany","Weather, Equipment, TurbulencePilot/Aircraft losses:Jordan / 44‑6109 ⇗"
+3,28,52,299,1945-03-28,Secondary,"Target: Berlin/Spandau Motor Transport WorksType: IndustryLocation: Spandau (Berlin), Germany",Industrial Plant Attacked No Aircraft Lost
+3,30,53,300,1945-03-30,Primary,"Target: Deutsche Schiff- u. Maschinenbau A.G. (DESCHIMAG) Submarine and Warship Yard Machine ShopType: Submarine FacilityLocation: Bremen, Germany",Bremen Shipyard Attacked No Aircraft Lost
+3,31,54,301,1945-03-31,Tertiary,"Target: Railroad Marshalling YardsType: TransportationLocation: Lützkendorf, Germany",Division Bombs Tertiary Target No Aircraft Lost
+4,3,55,302,1945-04-03,Secondary,"Target: Underground Oil Storage DepotType: Oil IndustryLocation: Kiel, Germany",Weather Forces Change No Aircraft Lost
+4,4,56,303,1945-04-04,Primary,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Fassberg, Germany",Some Bombs On Target No Aircraft Lost
+4,5,57,304,1945-04-05,Primary,"Target: Ordnance DepotType: MilitaryLocation: Ingolstadt, Germany",Ordnance Depot Destroyed Pilot/Aircraft losses: Cathey / 43‑37843 ⇗
+4,6,58,305,1945-04-06,Secondary,"Target: Railroad Marshalling Yards (Visual Primary)Type: TransportationLocation: Leipzig, Germany",Leipzig Railyard Bombed Pilot/Aircraft losses: Gray / 43‑39164 ⇗Hastings / 43‑38801 ⇗MacKellar / 44‑6923 ⇗
+4,7,59,306,1945-04-07,Primary,"Target: Underground Oil Storage PlantType: MilitaryLocation: Hitzacker, Germany",Bombardiers' Skills Pay Off No Aircraft Lost
+4,9,60,307,1945-04-09,Primary,"Target: AirfieldType: German Air Force (Luftwaffe)Location: Fürstenfeldbruck, Germany",Airfield Plastered No Aircraft Lost
+4,10,61,308,1945-04-10,Primary,"Target: Ordnance Depot Workshop AreaType: MilitaryLocation: Oranienburg, Germany",SS Depot Attacked No Aircraft Lost
+4,11,62,309,1945-04-11,Primary,"Target: Underground Oil Storage DepotType: Oil IndustryLocation: Freiham, Germany",Underground Oil Storage Attacked No Aircraft Lost
+4,14,63,310,1945-04-14,Primary,"Target: Gun BatteryType: MilitaryLocation: Royan (Bordeaux), France",Primary Target Clobbered No Aircraft Lost
+4,15,64,311,1945-04-15,Primary,"Target: Flak guns at Pointe de SuzacType: MilitaryLocation: Royan, France",Flak Guns Bombed No Aircraft Lost
+4,16,65,312,1945-04-16,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Regensburg, Germany",Attack On Transportation No Aircraft Lost
+4,17,66,313,1945-04-17,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Dresden, Germany",Transportation Attacked Again No Aircraft Lost
+4,19,67,314,1945-04-19,Primary,"Target: Railroad Station & Marshalling YardsType: TransportationLocation: Elsterwerda, Germany",Critical Railway Junction No Aircraft Lost
+4,20,68,315,1945-04-20,Primary,"Target: Railroad Marshalling YardsType: TransportationLocation: Seddin, Germany",Clear Weather: Good Bombing No Aircraft Lost
+4,25,69,316,1945-04-25,Primary,"Target: Skoda Armament WorksType: IndustryLocation: Pilsen / Plzeň, Czechoslovakia",THE LAST ONE! Pilot/Aircraft losses: Lovett / 43‑38501 ⇗
